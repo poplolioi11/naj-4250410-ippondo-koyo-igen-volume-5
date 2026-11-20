@@ -1,0 +1,405 @@
+{
+  "historical_author": "香川修德（太冲，1683–1755）",
+  "source_identity": "日本國立公文書館內閣文庫 195-0193-0005，4250410",
+  "source": "https://www.digital.archives.go.jp/item/4250410",
+  "iiif_manifest": "https://www.digital.archives.go.jp/api/iiif/4250410/manifest.json",
+  "source_rights_policy": "https://www.digital.archives.go.jp/secondary-use",
+  "dataset_version": "0.1.0",
+  "scan_count": 56,
+  "content_scan_count": 53,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909500",
+      "label": "C102547909500",
+      "sha256": "96e6a6f3b2ef523f3b024021ca8bba4879ec38310e334bc4e378192d6d5870cc",
+      "content_role": "binding-and-library-marks"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909600",
+      "label": "C102547909600",
+      "sha256": "a13d011927ba556791b610239c1a9a33e10fb309680ae4f37a6be1536b220921",
+      "content_role": "volume-opening"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909700",
+      "label": "C102547909700",
+      "sha256": "60aa0911296d956ca59727e1e1d4bb5fe26d99fc03272ec42b6d6a78db0ac456",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909800",
+      "label": "C102547909800",
+      "sha256": "fb49538ec308dbd00b98fa4a68759a6f9d5a500d22edd8048bf770c96486cf23",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909900",
+      "label": "C102547909900",
+      "sha256": "6a57a2ab5c14ca848a9dcb3588b85ad90ef4e0aaf12b2ca48e27131fb47436ed",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910000",
+      "label": "C102547910000",
+      "sha256": "31124257e87866267f30fc1a47435b5fcc51324ad7d7707ac797ed29b7019c06",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910100",
+      "label": "C102547910100",
+      "sha256": "3d6c7bec7577f0a86cb6d2e2a0e03a4bb134fc177b5cb5af9fee5a91cbb315f6",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910200",
+      "label": "C102547910200",
+      "sha256": "8f44cc87495f86d1f68874aaaca5045afd1c9a31bb9c090d4cdb2a8c8df37d3e",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910300",
+      "label": "C102547910300",
+      "sha256": "507fcbc655f78026a5a240eb7257d7c856d4ebca6287891c0e84b7af6f91754e",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910400",
+      "label": "C102547910400",
+      "sha256": "7418718598974286c98553a7ed405d9bec6680e0af6ce123d471bf6ce899a10d",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910500",
+      "label": "C102547910500",
+      "sha256": "c1d4895dfb6002adb63a895c484d0c2da1cb93abdc0149f7f6c352518bfdaf03",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910600",
+      "label": "C102547910600",
+      "sha256": "484d55e561e706f122756e9a90a69cf6944351cb61e54acb7f49d53f450c2fe7",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910700",
+      "label": "C102547910700",
+      "sha256": "ac8b12496e06a17abf400cbc124836b4de9325848472f9fafaa36e6449fa2b49",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910800",
+      "label": "C102547910800",
+      "sha256": "034130ac23cf1070190624c28412b167e0cccb55c2abdb157ec3de501c161819",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910900",
+      "label": "C102547910900",
+      "sha256": "97d5900c68ee999f0786d55a53a403807ee9f40b40521c457bb80f927417b3ba",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911000",
+      "label": "C102547911000",
+      "sha256": "9eb22b8970f2f34683331daae9adb2e729bd117de81ae5164063323fecd058c1",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911100",
+      "label": "C102547911100",
+      "sha256": "224cb626fdbff8671816579cbfcc878b1f3441da8a703416eef4e337d9571df4",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911200",
+      "label": "C102547911200",
+      "sha256": "690a236cb636c58095232c10464cbd48055e78a0144ce16cd27e919325d89191",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911300",
+      "label": "C102547911300",
+      "sha256": "ebf0bc3b527eb66f13848da770566fae0c4d87e1b3aa9d7e8377bb82e8f28537",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911400",
+      "label": "C102547911400",
+      "sha256": "e263a27daefec3982727c8462386d23eccd7fcebbe0bc074d22e74401b07e2bc",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911500",
+      "label": "C102547911500",
+      "sha256": "78d78d9b10868b0c45afb92ff82653f3fda65a5575fb44a775e12b3c1f0a246f",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911600",
+      "label": "C102547911600",
+      "sha256": "f0899d4122152d34a12440aa7a1374edf8d5f10488b3622b896cc66dbbf8e1da",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911700",
+      "label": "C102547911700",
+      "sha256": "984f3b782821c27d2bba7aacc894776da5d524a588f026edc4ff4f1418c01caa",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911800",
+      "label": "C102547911800",
+      "sha256": "9bdb0ccd5305e5eea03a9ea878d32ca279469d95c17c11842bd060482216110f",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911900",
+      "label": "C102547911900",
+      "sha256": "94ca1278bef99729269fd6e7fba990fd240d50f13cc370d5d7aa82e8f4e8fbfa",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912000",
+      "label": "C102547912000",
+      "sha256": "18bad9f3b352088ee670b5078b817b8dd7e0f8c38c44d3da881a9c6e7e9823c5",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912100",
+      "label": "C102547912100",
+      "sha256": "b4f0370419d7b27df73ae880601e0aba270be7563a23504ae0d6a4a63a296c40",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912200",
+      "label": "C102547912200",
+      "sha256": "1a6c59ae32f1e0ec9f3620b7034c199e6fb9573618b1dce4c13e74894e56a88c",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912300",
+      "label": "C102547912300",
+      "sha256": "87b08ed4f836cb814577db0cc2a4a99ca84cadced88623d8db26a446989ba6e9",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912400",
+      "label": "C102547912400",
+      "sha256": "7d36d2de03d9bf3be93ebea6e472a33f2513e2fad68f793bb40914b0082aebce",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912500",
+      "label": "C102547912500",
+      "sha256": "4beb24949cf466beff210e9839b8f81598d0a609cf1fc8b438e4609893917333",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912600",
+      "label": "C102547912600",
+      "sha256": "f083eb23488688ab5650fafbf5bdd5e61b39065221ea3e6772d12a07c38eabac",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912700",
+      "label": "C102547912700",
+      "sha256": "367083e93022d9f058df6201fe5f7c0aa4bdf3b1520f34f76061b16a5d350217",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912800",
+      "label": "C102547912800",
+      "sha256": "3cde12a0cd8412f46193a032fdbbe519dc89bd513f8f1467c2640f3cb1b1c9ff",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912900",
+      "label": "C102547912900",
+      "sha256": "76fbb4420a74b4ac90290dc0b0850928b12bb1a0441dfe608d15e60ebed3fa12",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913000",
+      "label": "C102547913000",
+      "sha256": "5c69105ae4772566f0d24b62d50d38e57791aae09e48f1de3eb600ea360d00ba",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913100",
+      "label": "C102547913100",
+      "sha256": "88778f499e5df124d9bb7b90414ed95ce53cb65a3b3c0ece4f1529415c3a9667",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913200",
+      "label": "C102547913200",
+      "sha256": "c889a0c8a2a4cfba7afa6000ff34c7c1eca2cd0f86083b131af70be29805046f",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913300",
+      "label": "C102547913300",
+      "sha256": "657c5ecc440a61415f275969b3c0daed91e9f11196c0e9ad61f454f924c0b32a",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913400",
+      "label": "C102547913400",
+      "sha256": "ae2f5fc887fa5396ca658d5c797d38929a69f0244d03cf92d88da8866fd95cba",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913500",
+      "label": "C102547913500",
+      "sha256": "e9333da18220ca3e8cd69a557918e7408bddc0b87b915c643ddb28d60c129da9",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913600",
+      "label": "C102547913600",
+      "sha256": "9d0071f5a81ca1b5e3312eb16413c280ac92c8138981ac9e847cbb3c9f3da4bd",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913700",
+      "label": "C102547913700",
+      "sha256": "2d3d8a4e6a773ccd2022b7704ef7b3d9d12b495d427bac9a09a3618bd949c0eb",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913800",
+      "label": "C102547913800",
+      "sha256": "4580b3230fb367a0237cfc1f9c99b66a9754dfbb137bcd28612d67d00e0604c5",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913900",
+      "label": "C102547913900",
+      "sha256": "fffd95f3e219e34dd7f3996f8afcc77edae3b7dbd05258a296efad97d84cd141",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914000",
+      "label": "C102547914000",
+      "sha256": "41da389fa4dba392f46011ef783fd3dea16bfac9e3f38a5456b99f0df8f68484",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914100",
+      "label": "C102547914100",
+      "sha256": "c7c35ea91c5f2edcabbe3ba67a5521d826c992606f9aeded43e025b515248ce0",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914200",
+      "label": "C102547914200",
+      "sha256": "0fccc301710e0b02eb7c7d24bc22b3aa2c3fbca780605aaf8076ae067cc8d540",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914300",
+      "label": "C102547914300",
+      "sha256": "458875637eb39dbe4a0fdfbafe6b38b9605c9585031f60b60c3e4ab19d25e606",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 50,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914400",
+      "label": "C102547914400",
+      "sha256": "47f93ab3204b042c69a2ef63ba00478f3c28893303d0b47b52962c43d238ca0f",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 51,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914500",
+      "label": "C102547914500",
+      "sha256": "88fb3e50851718afeadcf1a6aa5d98de90cfe898117412864a8e00cacd1c984d",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 52,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914600",
+      "label": "C102547914600",
+      "sha256": "336cdd063ad0f9da71b2509cbaaf6a917082d5f323c12e2c29adad3a4e4a67b7",
+      "content_role": "medical-discussions-and-cases"
+    },
+    {
+      "image": 53,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914700",
+      "label": "C102547914700",
+      "sha256": "9fea822e43eac6317092aaa34edd8222fa2a821eb890c0b50217b261d484766c",
+      "content_role": "philological-appendix"
+    },
+    {
+      "image": 54,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914800",
+      "label": "C102547914800",
+      "sha256": "2f489aab6812c8c462b540a064a0848c61351ab406cf6dc1cb661b8a625baf03",
+      "content_role": "philological-appendix"
+    },
+    {
+      "image": 55,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914900",
+      "label": "C102547914900",
+      "sha256": "430c47faa04c48cfd6378c9a41c4a68e2c52ffd46ecaf130e94e140bcedf52b1",
+      "content_role": "binding-and-library-marks"
+    },
+    {
+      "image": 56,
+      "canvas_id": "https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547915000",
+      "label": "C102547915000",
+      "sha256": "b858ca829005dfef59b20cea5830bdf672e1016c1ea95fb45583c8046c3324db",
+      "content_role": "binding-and-library-marks"
+    }
+  ]
+}

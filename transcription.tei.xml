@@ -1,0 +1,3941 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>一本堂行餘醫言卷之五</title>
+        <title type="alternate">Ippondō kōyo igen, volume 5</title>
+        <author>香川修德（太冲；1683–1755）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>日本（刊本）；東京（現藏）</settlement>
+            <repository>日本國立公文書館</repository>
+            <collection>內閣文庫</collection>
+            <idno>195-0193-0005</idno>
+            <altIdentifier>
+              <idno>NAJ4250410</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>香川修德漢文醫論的第五卷。正文分辨癇、驚、癲、狂及相關表現，有患者例述、旁注、所引古書和附字辨。</p>
+              <ref target="https://www.digital.archives.go.jp/item/4250410">館方書目</ref>
+              <ref target="https://www.digital.archives.go.jp/api/iiif/4250410/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>江戶刊本，卷五刊年未詳。本冊有明治十三年（1880）購求印。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909500" xml:id="f01">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547909500/iiif/M2018051815142837079_0001.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="2" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909600" xml:id="f02">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547909600/iiif/M2018051815142837079_0002.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="3" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909700" xml:id="f03">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547909700/iiif/M2018051815142837079_0003.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="4" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909800" xml:id="f04">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547909800/iiif/M2018051815142837079_0004.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="5" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547909900" xml:id="f05">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547909900/iiif/M2018051815142837079_0005.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="6" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910000" xml:id="f06">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910000/iiif/M2018051815142837079_0006.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="7" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910100" xml:id="f07">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910100/iiif/M2018051815142837079_0007.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="8" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910200" xml:id="f08">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910200/iiif/M2018051815142837079_0008.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="9" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910300" xml:id="f09">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910300/iiif/M2018051815142837079_0009.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="10" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910400" xml:id="f10">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910400/iiif/M2018051815142837079_0010.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="11" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910500" xml:id="f11">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910500/iiif/M2018051815142837079_0011.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="12" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910600" xml:id="f12">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910600/iiif/M2018051815142837079_0012.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="13" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910700" xml:id="f13">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910700/iiif/M2018051815142837079_0013.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="14" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910800" xml:id="f14">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910800/iiif/M2018051815142837079_0014.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="15" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547910900" xml:id="f15">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547910900/iiif/M2018051815142837079_0015.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="16" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911000" xml:id="f16">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911000/iiif/M2018051815142837079_0016.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="17" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911100" xml:id="f17">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911100/iiif/M2018051815142837079_0017.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="18" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911200" xml:id="f18">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911200/iiif/M2018051815142837079_0018.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="19" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911300" xml:id="f19">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911300/iiif/M2018051815142837079_0019.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="20" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911400" xml:id="f20">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911400/iiif/M2018051815142837079_0020.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="21" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911500" xml:id="f21">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911500/iiif/M2018051815142837079_0021.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="22" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911600" xml:id="f22">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911600/iiif/M2018051815142837079_0022.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="23" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911700" xml:id="f23">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911700/iiif/M2018051815142837079_0023.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="24" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911800" xml:id="f24">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911800/iiif/M2018051815142837079_0024.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="25" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547911900" xml:id="f25">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547911900/iiif/M2018051815142837079_0025.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="26" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912000" xml:id="f26">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912000/iiif/M2018051815142837079_0026.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="27" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912100" xml:id="f27">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912100/iiif/M2018051815142837079_0027.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="28" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912200" xml:id="f28">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912200/iiif/M2018051815142837079_0028.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="29" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912300" xml:id="f29">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912300/iiif/M2018051815142837079_0029.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="30" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912400" xml:id="f30">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912400/iiif/M2018051815142837079_0030.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="31" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912500" xml:id="f31">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912500/iiif/M2018051815142837079_0031.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="32" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912600" xml:id="f32">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912600/iiif/M2018051815142837079_0032.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="33" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912700" xml:id="f33">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912700/iiif/M2018051815142837079_0033.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="34" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912800" xml:id="f34">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912800/iiif/M2018051815142837079_0034.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="35" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547912900" xml:id="f35">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547912900/iiif/M2018051815142837079_0035.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="36" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913000" xml:id="f36">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913000/iiif/M2018051815142837079_0036.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="37" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913100" xml:id="f37">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913100/iiif/M2018051815142837079_0037.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="38" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913200" xml:id="f38">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913200/iiif/M2018051815142837079_0038.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="39" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913300" xml:id="f39">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913300/iiif/M2018051815142837079_0039.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="40" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913400" xml:id="f40">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913400/iiif/M2018051815142837079_0040.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="41" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913500" xml:id="f41">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913500/iiif/M2018051815142837079_0041.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="42" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913600" xml:id="f42">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913600/iiif/M2018051815142837079_0042.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="43" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913700" xml:id="f43">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913700/iiif/M2018051815142837079_0043.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="44" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913800" xml:id="f44">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913800/iiif/M2018051815142837079_0044.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="45" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547913900" xml:id="f45">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547913900/iiif/M2018051815142837079_0045.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="46" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914000" xml:id="f46">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914000/iiif/M2018051815142837079_0046.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="47" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914100" xml:id="f47">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914100/iiif/M2018051815142837079_0047.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="48" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914200" xml:id="f48">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914200/iiif/M2018051815142837079_0048.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="49" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914300" xml:id="f49">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914300/iiif/M2018051815142837079_0049.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="50" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914400" xml:id="f50">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914400/iiif/M2018051815142837079_0050.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="51" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914500" xml:id="f51">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914500/iiif/M2018051815142837079_0051.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="52" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914600" xml:id="f52">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914600/iiif/M2018051815142837079_0052.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="53" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914700" xml:id="f53">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914700/iiif/M2018051815142837079_0053.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="54" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914800" xml:id="f54">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914800/iiif/M2018051815142837079_0054.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="55" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547914900" xml:id="f55">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547914900/iiif/M2018051815142837079_0055.jp2/full/max/0/native.jpg" />
+    </surface>
+    <surface n="56" corresp="https://www.digital.archives.go.jp/api/iiif/4250410/canvas/C102547915000" xml:id="f56">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C102547915000/iiif/M2018051815142837079_0056.jp2/full/max/0/native.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding-and-library-marks">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>原封左題簽</label>
+              <seg type="diplomatic-text" rend="unknown">一本堂行餘醫言／卷之五／癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>原封中央館籤</label>
+              <seg type="diplomatic-text" rend="unknown">內閣文庫／和書／二二七二三號／二二冊／一九五函／八架</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>原封下端館籤</label>
+              <seg type="diplomatic-text" rend="unknown">內閣文庫／番號 和22723／冊數22（5）／函號195 193</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>攝影機構提醒</label>
+              <seg type="diplomatic-text" rend="unknown">糊などで貼り付けられている部分がめくれない箇所あり</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：彩卡和灰階標尺為數位化現場標示，館方另註部分黏貼處無法掀閱。公開資料只對應現有影像可見層。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="volume-opening">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">一本堂行餘醫言卷之五</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">平安　香川修德太冲父著</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">癇　驚　癲　狂　附癡騃　體輕　不食</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">不大便　不寐　悸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">癇者驚癲狂之總名而所兼尤衆廣也夫癇之為證也或</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">憂或怒或悲或笑或嫌忌對人見人或好愛閒居獨處或</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">喜熱暗地幽室或憂愁無聊絕無歡娛之意或疑人議己</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">短或每事猜忌患慮無窮或過憂無活計或怒氣屢發或</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c08">
+              <label>左頁第3欄「癇」旁雙行音注</label>
+              <seg type="diplomatic-text" rend="unknown">何閒切／音閒</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f02-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／一／一本堂藏書</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f02-l-c08">
+              <label>左頁欄首大型朱印</label>
+              <seg type="diplomatic-text" rend="red">內閣文庫</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f02-l-c08">
+              <label>左頁前欄署記朱印</label>
+              <seg type="diplomatic-text" rend="red">明治十三年購求</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：封內灰面，無本面正文。 左面：左頁為卷首，題下及欄首相疊的朱印獨立記。癇的場內假名、墨圈及返點按原圖定位，初錄未逐一標出。第三欄音注「閒」字原形待核。</ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>閒</quote>
+              <note type="editorial">左頁為卷首，題下及欄首相疊的朱印獨立記。癇的場內假名、墨圈及返點按原圖定位，初錄未逐一標出。第三欄音注「閒」字原形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">怒過續以啼泣或獨語自墮淚或氣沈心淪如將陷或恐</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">世議或慮衆評或危心如履薄冰臨深淵或怯弱恐聞殺</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">盗刑殺傷損危厄之事直即冷汗出或腋下與背汗出或</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">上氣衝逆時又眩暈或恐登高山過缺岸渡板橋仰石門</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">或恐獨自出行從人纔出行或寢食如常唯恐他出終年</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06">
+              <seg type="diplomatic-text">不出戶外或聞金石之震聲瓦陶之破響川流風樹之鳴</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07">
+              <seg type="diplomatic-text">音人語畜鳴之稍大直輒驚怖惕然欲跳或四肢冷冷汗</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08">
+              <seg type="diplomatic-text">出或心無樂意欲就死或妄想如人將來捕之欲走亡而</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">竄匿唯恐及之不遑逃避或夜開耿耿曾不交睫偶睡則</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">雜夢魘驚難成熟寐或㗅㗅然自高賢或好潔惡穢盥洗</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">掃除如何修之水淫如倪元鎮潔癖或遠慮多想狐疑猶</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">豫僕僕爾每事再三思慮拮据似是丁寧反覆實是糢糊</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">不決或平常深憂不足憂之事或既成之事復重改作至</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">再至三猶且數回不定或過誤自咎懊恨嗟嘆不已或獨</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">語書空若有所失或獨坐孤枕想往料來沈沈默默悒悶</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08">
+              <seg type="diplomatic-text">無所放遣似是證候千道百出不可舉數無慮皆係屬一</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／二／一本堂藏書</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c08">
+              <label>左頁欄外上方方框旁注</label>
+              <seg type="diplomatic-text" rend="unknown">甚則囂言欲／死投井自溺／抱刃就害</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右面記不同表現，逐欄保留字序。第一欄「續」、第三欄「盗」字依形。原訓點不逐一鍵入。 左面：左頁第二欄重字近㗅，上部形未定。第三欄「修之」「水淫」及第四欄「拮据」暫依字形；欄頂黑框旁注為同頁另一層，記的是歷史病情。</ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>修之</quote>
+              <note type="editorial">左頁第二欄重字近㗅，上部形未定。第三欄「修之」「水淫」及第四欄「拮据」暫依字形；欄頂黑框旁注為同頁另一層，記的是歷史病情。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>水淫</quote>
+              <note type="editorial">左頁第二欄重字近㗅，上部形未定。第三欄「修之」「水淫」及第四欄「拮据」暫依字形；欄頂黑框旁注為同頁另一層，記的是歷史病情。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>拮据</quote>
+              <note type="editorial">左頁第二欄重字近㗅，上部形未定。第三欄「修之」「水淫」及第四欄「拮据」暫依字形；欄頂黑框旁注為同頁另一層，記的是歷史病情。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">癇證中矣又有諸病證中帶癇氣者又有諸證未治漸為</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">內虚忽發大癇者此多不救又妊中發癇者名妊癇輕者</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">可治重者必死產後亦同及其病之漸進也顛倒昏塞不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">省人事故亦謂之癲又有自始得病既即遽倒者蓋癇其</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">總名而癲亦通稱故輕重而稱之但癇以病閒簡慢為呼</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">癲以顛倒顛越成稱驚與狂亦就驚恐狂躁發狀命名耳</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">其本皆一也今舉各證之異狀以資精察詳視之診候</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08">
+              <seg type="diplomatic-text">夫癲癇之將發或滯食塞氣或留飲溢氣或風寒閉外內</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／二／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">氣鬱窒或房勞虚內行氣留滯或過用患慮心情大鬱或</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">疾步速行液動內癖或視怪聽異或驚恐畏怖或心惡意</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">忌或卒然遇變或忽然忤意或悲哀憂愁或怒慍怨恨或</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">大聲暴響或屈撓摧抗遂乃卒然遽倒昏迷不省人事直</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">視吐沫發聲叫號手足躁擾口目瞤引或手足屈強咬牙</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">瞪目或口眼偏引搖頭振身或呼吸不聞口開軀軟殆如</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">死人少時之閒癇退氣復如夢忽覺如始無事者或有已</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">醒之後煩悶苦心者或有醒後二三日及四五日懊悶不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／三／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第五欄「通稱」「簡慢」依原字形留待核，餘按原印大小字分層。 左面：原本病名用癇、癲等字，循行保留。第五欄口目後字候讀瞤。第六欄「殆」字形留待核。</ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>通稱</quote>
+              <note type="editorial">第五欄「通稱」「簡慢」依原字形留待核，餘按原印大小字分層。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>簡慢</quote>
+              <note type="editorial">第五欄「通稱」「簡慢」依原字形留待核，餘按原印大小字分層。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>殆</quote>
+              <note type="editorial">原本病名用癇、癲等字，循行保留。第五欄口目後字候讀瞤。第六欄「殆」字形留待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">了了者。或有甚則直視不語。不飲食數日。至十餘日。恬然</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">如故人者。或有輕而止閉氣如睡夢少時而不顛倒者。又</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">有將發。必先苦心懊憹。無所消遣者。又有發前無何小異</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">者。又有發前呻吟叫號嗚嗚不止。非欬似欬者。俗又云。見</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">水而發。見火而發。見稠人躁衆而發者。間亦有之。非必皆</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">然。蓋水之流動。火之歘烈。衆人之熱鬧。癇人一見其躁擾</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">之狀。怵心慴氣。驚駭畏怖。跳動內氣。癥為之衝逆而發耳。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">又有遇生人。見怪物。聞世變而發者。或觀人失血。及觀自</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">出血而發者亦同。夫癲癇之成也。全是腹裏之癥為之根</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">基。其癥上衝犯心。心氣為之隘狹屈迫。鬱窒蔽塞。而後見</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">種種癇狀。證候多端。怪奇不一。然而決癇之為癇者。以其</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">脈近乎故也。若無脈則死。或有脈至伏似無者。此非絕脈。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">乃伏之至甚似無者也。病勢稍緩。則脈微微出。診是候者。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">勿誤為絕脈。後世有痰迷心竅之說。甚可疑也。殊不知心</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">固居膈膜上。而膜之隔限一層。猶樓上與樓下。所謂上焦。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">如霧者。故唯氣可通貫。而有形物。則不可至也。獨有食道</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／四／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右5「躁衆」、右6「歘」、右7「慴」及左4「近」待覆核。正文圈點依畫面暫標，小假名與返點另待覆核。 左面：底本 SHA-256 6a57a2ab5c14ca848a9dcb3588b85ad90ef4e0aaf12b2ca48e27131fb47436ed。</ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">胃脘。上自咽下至胃。一道為水穀流下之路徑耳。此外更</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">無別路。何他物之可能到乎。且癥疝之上犯。亦唯其氣衝</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">逆也。痰既有形物。況且稠粘。非可滲流。則又何得到心之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">左右地位哉。是故痰塞心之說。決不足取也。設謂本部如</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">霧之氣成痰。則益妄矣。假令本部如霧之氣成痰也。既成</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">痰則稠粘不可滲透肌理。食道胃脘。固為吞吐之途。一路</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">通貫。無復岐路。吐痰。即胃脘之痰耳。纒心之粘痰。從何道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">出來耶。若然。則癲證終不可治。纒心之痰。無路可驅出。何</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">其說之不通乎。愚亦甚矣。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">朱震亨以下。明之諸醫所論。無一不謂因痰塞心。諸書</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">不遑擧載。如王肯堂曰。由邪入腎間而作者。益鑿矣。證</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">治準繩云。諸方皆以初因涎鬱閉塞。藏氣不動。因之倒</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">仆。口吐涎沫也。安知口吐涎沫。豈止素積於胸中者哉</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">大抵癲癇之發厥。乃成厥。由腎中陰火上逆。而肝從之。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">故作搐搦搐搦。則遍身之脂液促迫而上。隨逆氣吐出</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08">
+              <seg type="diplomatic-text">於口也。其他之說。亦皆準之。竟不免強辯。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：左6「發厥」「乃成厥」照形暫錄。正文圈點依畫面暫標，小假名與返點另待覆核。 左面：底本 SHA-256 31124257e87866267f30fc1a47435b5fcc51324ad7d7707ac797ed29b7019c06。</ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">夫狂之將發。其始證候尤多。或疑慮嫌思。言行不決。或猜</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">疑至甚。恐人拒人。或夜間不寐。想往料來。或終夜不寐。妄</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">想沈思。或過好潔淨。盥洗掃除。或眼中常有血色。或白眼</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">睨人。或眼睛似有尖稜。或自過卑下。自過瑕疵。或自高傲。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">自負才。或深慮人議己短。或患慮所不可思慮之事。或驚</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">恐所不可驚恐之事。或憂愁所不可憂愁之事。或佗傺無</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">聊。憂懼欲死。或怯弱小器。謹慤有餘。或自謂人之將捕己。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08">
+              <seg type="diplomatic-text">或自思人來將殺己。或自悲自泣。或喜遺忘。或獨笑獨喜。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">遂乃卒然為狂亂。失本心。或歌笑奔走。或登高跨牆。或自</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">高貴。自辨智。自倨賢。或踰牆而走。上屋而歌。所上之處。皆</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">非其素所能。或目妄見。耳妄聞。言所見。固非其所自履到。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">誦所聞。固非其所自習學。或獨語低聲。避人深匿。或獨坐</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">終日。獨行不休。或高聲大怒。意不存人。或罵詈不避親疎。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">或破衣擲器。猛力異常。或去衣不知寒。或少卧不覺饑。至</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">不食數日。或飲啖倍常。或善見鬼神。又有自知己之將狂。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08">
+              <seg type="diplomatic-text">常自戒慎。又有忽然發狂。二三日。至四五日。乃止如常。一</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／六／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右6「佗傺」待覆核。正文圈點依畫面暫標，小假名與返點另待覆核。 左面：底本 SHA-256 3d6c7bec7577f0a86cb6d2e2a0e03a4bb134fc177b5cb5af9fee5a91cbb315f6。</ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">月及半年。復狂如前者。又有婦人患柔狂。適有懷身。則妊</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">中狂止如平人。既產復狂如初者。又有平日無何異。特產</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">後必發狂者。然詳察是類。竟不免有癇氣味。凡剛狂可治。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">柔狂難治。又視俗稱狐憑者。皆是狂證。非野狐所祟。真狐</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">憑者。百千中之一二。或亦有之。終是帶癇氣味之人耳。又</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">謂小兒無狂證者。非也。間亦有之。但至少耳。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
+              <seg type="diplomatic-text">驚癇者。小兒極危大疾。即是小兒之癇。故幼嬰之間。患驚</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-r-c08">
+              <seg type="diplomatic-text">癇者。後多成癇證。驚癇大人亦有之。或稱驚悸。或稱驚怖。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01">
+              <seg type="diplomatic-text">或稱驚恐。皆驚癇也。婦人尤多。柔弱之人。男子每有是證。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02">
+              <seg type="diplomatic-text">其證每事驚恐畏怖。與前癇證不異。後世立怔忡門。或稱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03">
+              <seg type="diplomatic-text">心忪。亦不知癇中之兼證故也。蓋驚者。驚駭之外形也。悸</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04">
+              <seg type="diplomatic-text">者。驚駭之內動也。悸即怔忡。心忪也。固是一病。但患狀之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05">
+              <seg type="diplomatic-text">異耳。又有因驚悸成奔豚者。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06">
+              <seg type="diplomatic-text">凡癇之為癲。為狂。為驚。雖外見異狀。而其實則同一癇疾。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-l-c07">
+              <seg type="diplomatic-text">或有癲狂兼發者。或有驚狂兼發者。或有癲狂驚兼發者。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-l-c08">
+              <seg type="diplomatic-text">古今名稱多端。若夫癲。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／七／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：左2「怔忡」的刻形與左4同，依字形暫錄。正文圈點依畫面暫標，小假名與返點另待覆核。 左面：底本 SHA-256 8f44cc87495f86d1f68874aaaca5045afd1c9a31bb9c090d4cdb2a8c8df37d3e。</ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f09-r-c01">
+              <seg type="diplomatic-text">靈樞癲狂篇曰癲疾始生先不樂頭重痛視舉目赤甚</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-r-c02">
+              <seg type="diplomatic-text">作極已而煩心又曰癲疾始作而引口啼呼喘悸又曰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-r-c03">
+              <seg type="diplomatic-text">癲疾始作先反僵因而脊痛又曰癲疾者疾發如狂者</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-r-c04">
+              <seg type="diplomatic-text">死不治素問長刺節論曰病初發歲一發不治月一發</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-r-c05">
+              <seg type="diplomatic-text">不治月四五發名曰癲病通評虛實論曰癲疾何如曰</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-r-c06">
+              <seg type="diplomatic-text">脈搏大滑久自已脈小堅急死不治又見靈樞熱病篇</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-r-c07">
+              <seg type="diplomatic-text">邪氣藏府病形篇素問厥論等又腹中論作癲□</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-r-c08">
+              <seg type="diplomatic-text">顛疾。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f09-l-c01">
+              <seg type="diplomatic-text">素問曰人生而有病顛疾者病名曰何安所得之曰病</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-l-c02">
+              <seg type="diplomatic-text">名為胎病此得之在母腹中時其母有所大驚氣上而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-l-c03">
+              <seg type="diplomatic-text">不下精氣并居故令子發為顛疾也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-l-c04">
+              <seg type="diplomatic-text">曰罵詈妄行顛疾為狂</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-l-c05">
+              <seg type="diplomatic-text">胎病。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-l-c06">
+              <seg type="diplomatic-text">見上</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-l-c07">
+              <seg type="diplomatic-text">厥顛疾。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c07">
+              <label>附註左3尾</label>
+              <seg type="diplomatic-text" rend="unknown">奇病論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c07">
+              <label>附註左3尾</label>
+              <seg type="diplomatic-text" rend="unknown">又陰陽類論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c07">
+              <label>附註左4尾及左5</label>
+              <seg type="diplomatic-text" rend="unknown">又見著至教論宣明五氣篇四時刺逆從論脈要精微論方盛衰論玉機真藏論氣交變大論五常政大論等。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-l-c07">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／八／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右7末「癲」下有界線近處短筆，暫標一缺字，待核是否同欄實字。「顛」「癲」按字形區分。黑色小點、小假名與返點待覆核。左5皆引書小字，列入附註。 左面：底本 SHA-256 507fcbc655f78026a5a240eb7257d7c856d4ebca6287891c0e84b7af6f91754e。</ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>顛</quote>
+              <note type="editorial">右7末「癲」下有界線近處短筆，暫標一缺字，待核是否同欄實字。「顛」「癲」按字形區分。黑色小點、小假名與返點待覆核。左5皆引書小字，列入附註。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f10-r-c01">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-r-c02">
+              <seg type="diplomatic-text">顛疾。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-r-c03">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-r-c04">
+              <seg type="diplomatic-text">骨癲疾。筋癲疾。脈癲疾。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-r-c05">
+              <seg type="diplomatic-text">靈樞曰骨癲疾者頷齒諸腧分肉皆滿而骨居汗出煩</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-r-c06">
+              <seg type="diplomatic-text">悗嘔多沃沫氣下泄不治筋癲疾者身倦攣急大脈癲</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-r-c07">
+              <seg type="diplomatic-text">疾者暴仆四肢之脈皆脹而縱脈滿而無皮肌癲可疑</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-r-c08">
+              <seg type="diplomatic-text">也或脫簡耶</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c08">
+              <label>附註右1</label>
+              <seg type="diplomatic-text" rend="unknown">脈要精微論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c08">
+              <label>附註右3</label>
+              <seg type="diplomatic-text" rend="unknown">五藏生成篇又見靈樞邪氣藏府病形篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c08">
+              <label>附註右8後</label>
+              <seg type="diplomatic-text" rend="unknown">癲狂篇○骨癲疾又見邪氣藏府病形篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f10-l-c01">
+              <seg type="diplomatic-text">狂顛疾。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-l-c02">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-l-c03">
+              <seg type="diplomatic-text">風癲。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-l-c04">
+              <seg type="diplomatic-text">病源候論云人在胎其母卒大驚精氣并居令子發癲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-l-c05">
+              <seg type="diplomatic-text">其發則仆地吐涎沫無所覺是也千金方及外臺秘要</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-l-c06">
+              <seg type="diplomatic-text">所引古今錄驗皆同</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-l-c07">
+              <seg type="diplomatic-text">五癲。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-l-c08">
+              <seg type="diplomatic-text">病源候論云五癲者一曰陽癲發如死人遺尿食頃乃</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c08">
+              <label>附註左2</label>
+              <seg type="diplomatic-text" rend="unknown">經脈篇二條一作癲一作顛又見素問脈解篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／九／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右5「居」依圖暫錄。左8「如」字附近紙有小缺與著色。黑色小點、小假名與返點另待覆核。 左面：底本 SHA-256 7418718598974286c98553a7ed405d9bec6680e0af6ce123d471bf6ce899a10d。</ab>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="11" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f11-r-c01">
+              <seg type="diplomatic-text">解二曰陰癲初生小時臍瘡未愈數洗浴因此得之三</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-r-c02">
+              <seg type="diplomatic-text">曰風癲發時眼目相引牽縱反強羊鳴食頃乃解四曰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-r-c03">
+              <seg type="diplomatic-text">濕癲眉頭痛身重坐熱沐頭濕結腦沸未止得之五曰</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-r-c04">
+              <seg type="diplomatic-text">馬癲發作時時反目口噤手足相引身體皆然又外臺</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-r-c05">
+              <seg type="diplomatic-text">秘要所引古今錄驗療五癲牛癲則牛鳴馬癲則馬鳴</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-r-c06">
+              <seg type="diplomatic-text">狗癲則狗吠羊癲則羊鳴雞癲則雞鳴五癲病者腑臟</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-r-c07">
+              <seg type="diplomatic-text">相引盈氣起寒厥不識人氣爭瘛瘲吐沫久而得蘇千</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-r-c08">
+              <seg type="diplomatic-text">金范汪同</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c08">
+              <label>附註右8尾</label>
+              <seg type="diplomatic-text" rend="unknown">濕癲又見千金方</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f11-l-c01">
+              <seg type="diplomatic-text">卒癲。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-l-c02">
+              <seg type="diplomatic-text">見肘後方又出千金方</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-l-c03">
+              <seg type="diplomatic-text">鬼癲。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-l-c04">
+              <seg type="diplomatic-text">癲眩。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-l-c05">
+              <seg type="diplomatic-text">並見千金方</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-l-c06">
+              <seg type="diplomatic-text">癲風。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-l-c07">
+              <seg type="diplomatic-text">出丹溪心法附餘</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-l-c08">
+              <seg type="diplomatic-text">羊癲風。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右3「坐熱沐頭」依圖暫錄；右7「瘛瘲」待覆核。小假名與返點待覆核。 左面：底本 SHA-256 c1d4895dfb6002adb63a895c484d0c2da1cb93abdc0149f7f6c352518bfdaf03。</ab>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="12" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f12-r-c01">
+              <seg type="diplomatic-text">沈應暘萬病必愈云俗所謂羊癲風雞爪風等者是也</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-r-c02">
+              <seg type="diplomatic-text">顛邪。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-r-c03">
+              <seg type="diplomatic-text">見本草綱目百合條所引大明云顛邪狂叫驚悸</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-r-c04">
+              <seg type="diplomatic-text">狂。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-r-c05">
+              <seg type="diplomatic-text">靈樞云狂始生先自悲也喜忘苦怒善恐者得之憂饑</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-r-c06">
+              <seg type="diplomatic-text">狂始發少卧不饑自高賢也自辨智也自尊貴也善罵</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-r-c07">
+              <seg type="diplomatic-text">詈日夜不休狂言驚善笑好歌樂妄行不休者得之大</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-r-c08">
+              <seg type="diplomatic-text">恐狂目妄見耳妄聞善呼者少氣之所生也狂者多食</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f12-l-c01">
+              <seg type="diplomatic-text">善見鬼神善笑而不發於外者得之有所大喜又</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-l-c02">
+              <seg type="diplomatic-text">云熱病數驚瘈瘲而狂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-l-c03">
+              <seg type="diplomatic-text">狂癲。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-l-c04">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-l-c05">
+              <seg type="diplomatic-text">狂妄。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-l-c06">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-l-c07">
+              <seg type="diplomatic-text">又靈樞邪氣藏府病形篇稱狂笑</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c07">
+              <label>附註左1尾</label>
+              <seg type="diplomatic-text" rend="unknown">癲狂篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c07">
+              <label>附註左2–3</label>
+              <seg type="diplomatic-text" rend="unknown">熱病篇。其他見九鍼十二原篇、小鍼解篇、刺節眞邪篇、本神篇，及素問長刺節論、生氣通天論、陰陽類論、示從容論、宣明五氣篇、腹中論、氣厥論等。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c07">
+              <label>附註左5</label>
+              <seg type="diplomatic-text" rend="unknown">經脈篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c07">
+              <label>附註左7</label>
+              <seg type="diplomatic-text" rend="unknown">本神篇云魂傷則狂妄不精○又見素問五常政大論云狂妄目赤</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f12-l-c07">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十一／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：左2 末尾小字承左3整欄，正文欄次仍依右至左。黑色小點、小假名與返點另待覆核。 左面：底本 SHA-256 484d55e561e706f122756e9a90a69cf6944351cb61e54acb7f49d53f450c2fe7。</ab>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="13" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f13-r-c01">
+              <seg type="diplomatic-text">怒狂。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-r-c02">
+              <seg type="diplomatic-text">素問曰有病怒狂者此病安生曰生於陽也曰陽何以</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-r-c03">
+              <seg type="diplomatic-text">使人狂曰陽氣者因暴折而難決故善怒也病名曰陽</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-r-c04">
+              <seg type="diplomatic-text">厥</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-r-c05">
+              <seg type="diplomatic-text">陽厥。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-r-c06">
+              <seg type="diplomatic-text">見上</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-r-c07">
+              <seg type="diplomatic-text">厥狂。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-r-c08">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-r-c08">
+              <label>附註右4尾</label>
+              <seg type="diplomatic-text" rend="unknown">病能論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-r-c08">
+              <label>附註右8</label>
+              <seg type="diplomatic-text" rend="unknown">通評虛實論</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f13-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f13-l-c01">
+              <seg type="diplomatic-text">狂越。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-l-c02">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-l-c03">
+              <seg type="diplomatic-text">狂易。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-l-c04">
+              <seg type="diplomatic-text">神農本草蜣蜋條云大人癲疾狂易又見白頭翁條云</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-l-c05">
+              <seg type="diplomatic-text">溫瘧狂易寒熱又見甲乙經按證類本草並註云易音</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-l-c06">
+              <seg type="diplomatic-text">羊恐非也又石下長卿條有老魅注易亡走字疑是亦</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-l-c07">
+              <seg type="diplomatic-text">狂字</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-l-c08">
+              <seg type="diplomatic-text">狂惑。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+              <label>附註左2</label>
+              <seg type="diplomatic-text" rend="unknown">至眞要大論又見氣交變大論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+              <label>眉批左4附近</label>
+              <seg type="diplomatic-text" rend="unknown">按本草綱目作狂陽未□孰是</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f13-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十二／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：左6「注易」、眉批「狂陽」依圖暫錄；眉批缺字待回圖。黑色小點、小假名與返點另待覆核。 左面：底本 SHA-256 ac8b12496e06a17abf400cbc124836b4de9325848472f9fafaa36e6449fa2b49。</ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>眉批左4附近</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="14" facs="#f14" />
+        <div n="14" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f14-r-c01">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-r-c02">
+              <seg type="diplomatic-text">風狂。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-r-c03">
+              <seg type="diplomatic-text">病源候論云狂病者由風邪入并於陽所爲也氣并於</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-r-c04">
+              <seg type="diplomatic-text">陽則爲狂發或欲走或自高賢稱神聖是也皆由血氣</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-r-c05">
+              <seg type="diplomatic-text">虛受風邪致令陰陽氣相并所致故名風狂巢氏以爲</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-r-c06">
+              <seg type="diplomatic-text">風邪非也千金方同按肘後方亦同</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-r-c07">
+              <seg type="diplomatic-text">狂癇。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-r-c08">
+              <seg type="diplomatic-text">卒狂。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c08">
+              <label>附註右1</label>
+              <seg type="diplomatic-text" rend="unknown">白薇條又楝實條有煩狂字又名醫別錄白頸蚯蚓條云狂謬</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f14-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f14-l-c01">
+              <seg type="diplomatic-text">狂風。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-l-c02">
+              <seg type="diplomatic-text">狂眩。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-l-c03">
+              <seg type="diplomatic-text">狂邪。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-l-c04">
+              <seg type="diplomatic-text">已上並出千金方</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-l-c05">
+              <seg type="diplomatic-text">狂叫。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-l-c06">
+              <seg type="diplomatic-text">本艸綱目百合條所引大明云顛邪狂叫</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-l-c07">
+              <seg type="diplomatic-text">熱狂。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-l-c08">
+              <seg type="diplomatic-text">同上薺苨主治大明云</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f14-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十三／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右1 小字「狂謬」、左8「薺苨」依圖暫錄。左版心「十三」清楚；小假名與返點待覆核。 左面：底本 SHA-256 034130ac23cf1070190624c28412b167e0cccb55c2abdb157ec3de501c161819。</ab>
+          </div>
+        </div>
+        <pb n="15" facs="#f15" />
+        <div n="15" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f15-r-c01">
+              <seg type="diplomatic-text">失心。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-r-c02">
+              <seg type="diplomatic-text">見外臺秘要所引廣濟方又肘後方稱喪心又證治準</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-r-c03">
+              <seg type="diplomatic-text">繩錦囊秘錄並云癲病俗呼爲失心風</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-r-c04">
+              <seg type="diplomatic-text">失志。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-r-c05">
+              <seg type="diplomatic-text">出千金方</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-r-c06">
+              <seg type="diplomatic-text">失性。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-r-c07">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-r-c08">
+              <seg type="diplomatic-text">失魄。</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-r-c08">
+              <label>附註右3</label>
+              <seg type="diplomatic-text" rend="unknown">秘方集驗作失心瘋</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-r-c08">
+              <label>附註右5</label>
+              <seg type="diplomatic-text" rend="unknown">失志字元出素問評熱病論云狂言者是失志失志者死又見八十一難</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f15-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f15-l-c01">
+              <seg type="diplomatic-text">同上又見名醫別錄鬼臼條云風邪煩惑失魄妄見</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-l-c02">
+              <seg type="diplomatic-text">亡魂。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-l-c03">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-l-c04">
+              <seg type="diplomatic-text">心風。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-l-c05">
+              <seg type="diplomatic-text">宋魏泰東軒筆錄七云王介性輕率語言無倫時人以</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-l-c06">
+              <seg type="diplomatic-text">爲心風</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-l-c07">
+              <seg type="diplomatic-text">氣心風。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-l-c08">
+              <seg type="diplomatic-text">濟世全書云治氣心風即是痰迷心竅發狂亂</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f15-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十四／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右2「喪心」與右3 小字「瘋」、左5 人名「王介」、左8「竅」依原圖暫錄。小假名、斷讀黑點、返點另待覆核。 左面：底本 SHA-256 97d5900c68ee999f0786d55a53a403807ee9f40b40521c457bb80f927417b3ba。</ab>
+          </div>
+        </div>
+        <pb n="16" facs="#f16" />
+        <div n="16" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f16-r-c01">
+              <seg type="diplomatic-text">心恙。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-r-c02">
+              <seg type="diplomatic-text">壽世保元濟世全書等云心恙狂惑又見名醫類案赤</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-r-c03">
+              <seg type="diplomatic-text">水玄珠</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-r-c04">
+              <seg type="diplomatic-text">心疾。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-r-c05">
+              <seg type="diplomatic-text">出孫光憲北夢瑣言十云唐世劉崇望弟兄五人其元</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-r-c06">
+              <seg type="diplomatic-text">昆崇彝留一男少有才思一旦心疾</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-r-c07">
+              <seg type="diplomatic-text">風恙。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-r-c08">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f16-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f16-l-c01">
+              <seg type="diplomatic-text">風魔。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-l-c02">
+              <seg type="diplomatic-text">見名醫類案</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-l-c03">
+              <seg type="diplomatic-text">風子。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-l-c04">
+              <seg type="diplomatic-text">見張三錫醫學六要</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-l-c05">
+              <seg type="diplomatic-text">熱陽風。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-l-c06">
+              <seg type="diplomatic-text">見千金方</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-l-c07">
+              <seg type="diplomatic-text">白果瘋。</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-l-c08">
+              <seg type="diplomatic-text">王夢蘭秘方集驗云食白果致瘋予亦親見之則知銀</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f16-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右5「劉崇望」與右6「崇彝」依圖暫錄，待核人名字形。左8 末「銀」接下幅右1「杏」。小假名與返點另待覆核。 左面：底本 SHA-256 9eb22b8970f2f34683331daae9adb2e729bd117de81ae5164063323fecd058c1。</ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>銀</quote>
+              <note type="editorial">右5「劉崇望」與右6「崇彝」依圖暫錄，待核人名字形。左8 末「銀」接下幅右1「杏」。小假名與返點另待覆核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="17" facs="#f17" />
+        <div n="17" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f17-r-c01">
+              <seg type="diplomatic-text">杏之動癇猶喫蒟蒻凍子動癇故癇人決勿食此二物</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-r-c02">
+              <seg type="diplomatic-text">驚。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-r-c03">
+              <seg type="diplomatic-text">出素問</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-r-c04">
+              <seg type="diplomatic-text">驚狂。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-r-c05">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c05">
+              <label>附註右3–6</label>
+              <seg type="diplomatic-text" rend="unknown">大奇論著至教論示從容論疏五過論氣厥論／至眞要大論診要經終論舉痛論評熱病論奇／病論脈解篇刺熱篇經脈別論痺論厥論刺瘧論刺禁／論等又靈樞經脈篇云病至則惡人與火聞木聲則惕／然而驚心欲動獨閉戶塞牖而處甚則欲上高而歌棄／衣而走賁響腹脹是爲骭厥又百病始生篇癲狂篇熱／病篇終／始篇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c05">
+              <label>附註右8</label>
+              <seg type="diplomatic-text" rend="unknown">調經論又傷寒論云傷寒脈浮醫以火迫劫之亡／陽必驚狂起卧不安又神農本艸防葵條云驚邪</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f17-r-c05">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f17-l-c01">
+              <seg type="diplomatic-text">狂走</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-l-c02">
+              <seg type="diplomatic-text">驚恐。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-l-c03">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-l-c04">
+              <seg type="diplomatic-text">驚瘦。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-l-c05">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f17-l-c06">
+              <seg type="diplomatic-text">癇驚。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f17-l-c07">
+              <seg type="diplomatic-text">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c07">
+              <label>附註左3–4</label>
+              <seg type="diplomatic-text" rend="unknown">血氣形志篇經脈別論又靈樞經脈篇云氣不足／則善恐心惕惕如人將捕之又素問藏氣法時論／云善恐如人將捕之又靈樞口問篇云大／驚卒恐○神農本艸桔梗條云驚恐悸氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c07">
+              <label>附註左6</label>
+              <seg type="diplomatic-text" rend="unknown">至眞要大論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c07">
+              <label>附註左8</label>
+              <seg type="diplomatic-text" rend="unknown">通評虛實論</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f17-l-c07">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／癇／十六／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右3–6 小字以「／」標實體小欄界，二欄貼排。「骭厥」影像字形也可能是「肝厥」；左5「驚瘦」末字待回圖。小假名、斷讀黑點與返點另待覆核。 左面：底本 SHA-256 224cb626fdbff8671816579cbfcc878b1f3441da8a703416eef4e337d9571df4。</ab>
+          </div>
+        </div>
+        <pb n="18" facs="#f18" />
+        <div n="18" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f18-r-c01">
+              <seg type="diplomatic-text">驚駭</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-r-c02">
+              <seg type="diplomatic-text">同上生氣通天論云俞氣化薄傳作善畏及為驚駭又見至眞要大論五常政大論陰陽別論陰陽類論</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-r-c03">
+              <seg type="diplomatic-text">六元正紀大論金匱眞言論大奇論等又素問遺編本病論有驚駭字</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-r-c04">
+              <seg type="diplomatic-text">善驚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-r-c05">
+              <seg type="diplomatic-text">同上見厥論刺瘧論四時刺逆從論診要經終論靈樞熱病篇</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-r-c06">
+              <seg type="diplomatic-text">驚惑</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-r-c07">
+              <seg type="diplomatic-text">同上六元正紀大論</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-r-c08">
+              <seg type="diplomatic-text">驚躁</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f18-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　十六　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f18-l-c01">
+              <seg type="diplomatic-text">同上六元正氣大論</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-l-c02">
+              <seg type="diplomatic-text">暴驚</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-l-c03">
+              <seg type="diplomatic-text">同上大奇論</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-l-c04">
+              <seg type="diplomatic-text">驚氣</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-l-c05">
+              <seg type="diplomatic-text">見本艸綱目沙參薺苨條又名醫別錄蘗木條</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-l-c06">
+              <seg type="diplomatic-text">驚恚</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-l-c07">
+              <seg type="diplomatic-text">神農本艸牡蠣條云驚恚怒氣又名醫別錄龜甲條云</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-l-c08">
+              <seg type="diplomatic-text">驚恚氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f18-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　十七　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第2、3、5欄有割注，由同欄右行至左行讀入；第3欄第二行以圈起。第2欄「俞」原字候讀，「薄傳」照圖；第3、7欄「紀」右筆細。題右小圈與返點未逐點編碼。左淡墨為透背。 左面：左頁第1欄作「氣」於圖，第5欄「薺苨」及「蘗」候讀。題右小圈及細訓點未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="19" facs="#f19" />
+        <div n="19" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f19-r-c01">
+              <seg type="diplomatic-text">驚癇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-r-c02">
+              <seg type="diplomatic-text">同上龍齒條云大人驚癇諸痙癲疾又蜣蜋條小兒驚</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-r-c03">
+              <seg type="diplomatic-text">癇瘈瘲又見蛇蛻主治及蟬花主治又出名醫別錄釣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-r-c04">
+              <seg type="diplomatic-text">藤條又外臺秘要所引深師方崔氏方古今錄驗范汪</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-r-c05">
+              <seg type="diplomatic-text">方皆同又見病源候論</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-r-c06">
+              <seg type="diplomatic-text">五驚</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-r-c07">
+              <seg type="diplomatic-text">同上龍齒條又見外臺秘要所引古今錄驗廣濟方又出千金方</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-r-c08">
+              <seg type="diplomatic-text">大驚</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f19-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　十七　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f19-l-c01">
+              <seg type="diplomatic-text">同上大棗條又名醫別錄蓬蘽條</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-l-c02">
+              <seg type="diplomatic-text">驚悸</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-l-c03">
+              <seg type="diplomatic-text">同上人參百合厚朴旋覆花萱草栢實羖羊角天鼠屎等條又名醫別錄伏神虎骨蚱蟬銀屑鐵精等條</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-l-c04">
+              <seg type="diplomatic-text">又素問氣交變大論稱煩心躁悸又出素問遺篇本病論</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-l-c05">
+              <seg type="diplomatic-text">驚怖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-l-c06">
+              <seg type="diplomatic-text">金匱方論云師曰病有奔豚有吐膿有驚怖有火邪此</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-l-c07">
+              <seg type="diplomatic-text">四部病從驚發得之又曰奔豚病從少腹起上衝咽發</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-l-c08">
+              <seg type="diplomatic-text">作欲死復還止皆從驚恐得之</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f19-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　十八　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第2欄「蜣蜋」候「蜣螂」；第3欄「瘈瘲」待覆核；第7欄有割注，右行末「古」接左行首「今」。題右小圈及細訓點未逐點編碼。 左面：左頁第1欄「蘽」候讀；第3、4欄按原同欄右行接左行；第3欄「萱」「栢」「羖」候回圖，小字訓點、圈識未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="20" facs="#f20" />
+        <div n="20" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f20-r-c01">
+              <seg type="diplomatic-text">驚邪</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-r-c02">
+              <seg type="diplomatic-text">見神農本艸白馬懸蹄茯苓防葵條又見本艸綱目山</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-r-c03">
+              <seg type="diplomatic-text">丹條所引大明云</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-r-c04">
+              <seg type="diplomatic-text">驚喘</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-r-c05">
+              <seg type="diplomatic-text">同上石膏條</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-r-c06">
+              <seg type="diplomatic-text">驚啼</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-r-c07">
+              <seg type="diplomatic-text">見名醫別錄鯪鯉甲條</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-r-c08">
+              <seg type="diplomatic-text">癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f20-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　十八　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f20-l-c01">
+              <seg type="diplomatic-text">出靈樞又見病源候論千金方及外臺秘要所引廣濟方救急方</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-l-c02">
+              <seg type="diplomatic-text">癇眩</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-l-c03">
+              <seg type="diplomatic-text">同上寒熱病篇又見素問</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-l-c04">
+              <seg type="diplomatic-text">癇厥</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-l-c05">
+              <seg type="diplomatic-text">見素問大奇論</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-l-c06">
+              <seg type="diplomatic-text">癇瘈</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-l-c07">
+              <seg type="diplomatic-text">同上大奇論又靈樞經筋篇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-l-c08">
+              <seg type="diplomatic-text">癰癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f20-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　十九　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第6欄魚名「鯪鯉」依魚旁形暫讀，小圈及細訓點未逐點編碼。 左面：左頁第1、3、7欄按原同欄右細行接左細行；第6欄末「瘈」右部待核，第8欄首字「癰」候讀。題右小圈及細訓點未逐點編碼。</ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>瘈</quote>
+              <note type="editorial">左頁第1、3、7欄按原同欄右細行接左細行；第6欄末「瘈」右部待核，第8欄首字「癰」候讀。題右小圈及細訓點未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>癰</quote>
+              <note type="editorial">左頁第1、3、7欄按原同欄右細行接左細行；第6欄末「瘈」右部待核，第8欄首字「癰」候讀。題右小圈及細訓點未逐點編碼。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="21" facs="#f21" />
+        <div n="21" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f21-r-c01">
+              <seg type="diplomatic-text">見金匱方論風引湯下</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-r-c02">
+              <seg type="diplomatic-text">蛇癇</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-r-c03">
+              <seg type="diplomatic-text">見神農本艸蛇蛻條</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-r-c04">
+              <seg type="diplomatic-text">風癇</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-r-c05">
+              <seg type="diplomatic-text">出病源候論又見名醫別錄</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-r-c06">
+              <seg type="diplomatic-text">食癇</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-r-c07">
+              <seg type="diplomatic-text">暴癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-r-c08">
+              <seg type="diplomatic-text">並見千金方</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f21-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　十九　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f21-l-c01">
+              <seg type="diplomatic-text">陽癇陰癇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-l-c02">
+              <seg type="diplomatic-text">同上玉機微義引之云此論癇之陰陽後世有認為寒</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-l-c03">
+              <seg type="diplomatic-text">熱者誤矣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-l-c04">
+              <seg type="diplomatic-text">發猪癇疾發雞風</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-l-c05">
+              <seg type="diplomatic-text">證治要訣云</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-l-c06">
+              <seg type="diplomatic-text">雞爪風</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-l-c07">
+              <seg type="diplomatic-text">見上</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-l-c08">
+              <seg type="diplomatic-text">猪圈風</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f21-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第2、4、6、7欄各有題旁圈；細訓點未逐點編碼。正文後淡墨為透背。 左面：左頁第1、4欄各兩個題旁圈；第6、8欄各一個；細訓點未逐點編碼。第6欄「爪」版形略省；「猪」照原，不統一為豬。</ab>
+          </div>
+        </div>
+        <pb n="22" facs="#f22" />
+        <div n="22" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f22-r-c01">
+              <seg type="diplomatic-text">壽世保元云癇之為病角弓反張手足搐搦口吐涎沫</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-r-c02">
+              <seg type="diplomatic-text">俗云猪圈風也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-r-c03">
+              <seg type="diplomatic-text">胎癇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-r-c04">
+              <seg type="diplomatic-text">出證治準繩</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-r-c05">
+              <seg type="diplomatic-text">羊兒風</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-r-c06">
+              <seg type="diplomatic-text">見醫學六要</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-r-c07">
+              <seg type="diplomatic-text">五癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-r-c08">
+              <seg type="diplomatic-text">見外臺秘要所引廣濟方</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f22-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f22-l-c01">
+              <seg type="diplomatic-text">三種癇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-l-c02">
+              <seg type="diplomatic-text">病源候論云三種者風癇驚癇食癇是也千金翼方同</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-l-c03">
+              <seg type="diplomatic-text">五藏癇六畜癇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-l-c04">
+              <seg type="diplomatic-text">千金方云夫癇有五藏之癇六畜之癇肝癇之為病面</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-l-c05">
+              <seg type="diplomatic-text">青目反視手足搖心癇之為病面赤心下有熱短氣息</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-l-c06">
+              <seg type="diplomatic-text">微數脾癇之為病面黄腹大喜利肺癇之為病面目白</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-l-c07">
+              <seg type="diplomatic-text">口沫出腎癇之為病面黒正直視不搖如尸狀膈癇之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-l-c08">
+              <seg type="diplomatic-text">為病目反四肢不舉腸癇之為病不動搖其後曰右五</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f22-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十一　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第1欄「搐搦」候讀，手旁可辨；第3、5、7欄有題旁小圈。第5欄圈內墨痕待核。細訓點未逐點編碼。 左面：左頁第1欄一題旁圈、第3欄兩題旁圈；第7欄「膈」與第8欄「腸」可見月旁。細訓點、送假名、句讀點未逐點編碼。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>搐搦</quote>
+              <note type="editorial">右頁第1欄「搐搦」候讀，手旁可辨；第3、5、7欄有題旁小圈。第5欄圈內墨痕待核。細訓點未逐點編碼。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="23" facs="#f23" />
+        <div n="23" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f23-r-c01">
+              <seg type="diplomatic-text">藏癇證候而又添膈腸二癇者抑何哉益覺泛濫馬癇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-r-c02">
+              <seg type="diplomatic-text">牛癇羊癇猪癇犬癇雞癇右六畜癇</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-r-c03">
+              <seg type="diplomatic-text">八癇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-r-c04">
+              <seg type="diplomatic-text">見本艸綱目蚺蛇膽條所引甄權云無名目</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-r-c05">
+              <seg type="diplomatic-text">十二癇</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-r-c06">
+              <seg type="diplomatic-text">出名醫別錄龍齒條云五驚十二癇無名目又見名醫別錄釣藤條</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-r-c07">
+              <seg type="diplomatic-text">二十五癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-r-c08">
+              <seg type="diplomatic-text">見千金方及外臺秘要所引備急方古今錄驗</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f23-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十一　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f23-l-c01">
+              <seg type="diplomatic-text">百癇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-l-c02">
+              <seg type="diplomatic-text">見醫學綱目</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-l-c03">
+              <seg type="diplomatic-text">三十年癇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-l-c04">
+              <seg type="diplomatic-text">見本艸綱目人尿條</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-l-c05">
+              <seg type="diplomatic-text">陽癲陰癲濕癲馬癲牛癲狗癲羊癲雞癲狂笑喪心失心</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-l-c06">
+              <seg type="diplomatic-text">風肝癇心癇脾癇肺癇腎癇膈癇腸癇馬癇牛癇羊癇猪</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-l-c07">
+              <seg type="diplomatic-text">癇犬癇雞癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-l-c08">
+              <seg type="diplomatic-text">已上皆見上牛癇見外臺羊癇見名醫別錄羊齒條雞</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f23-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十二　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第4欄「蚺」有虫旁，左墨稍重；「甄」依左垔右瓦。第6欄「癇」下接割注，同欄先右後左。第3、5、7欄題旁各一圈；細訓點未逐點編碼。 左面：左頁第5欄「濕」右半刻省；第8欄「已上」照圖，「羊齒條」縮小入欄。條目間圈及細訓點未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="24" facs="#f24" />
+        <div n="24" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f24-r-c01">
+              <seg type="diplomatic-text">癇又見鳳皇臺主治陳藏器云</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-r-c02">
+              <seg type="diplomatic-text">冷癇</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-r-c03">
+              <seg type="diplomatic-text">見證治要訣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-r-c04">
+              <seg type="diplomatic-text">鬱冒</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-r-c05">
+              <seg type="diplomatic-text">許叔微本事方云人平居無疾苦忽如死人身不動搖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-r-c06">
+              <seg type="diplomatic-text">目閉口噤或微知人眩冒移時方寤名曰鬱冒亦名血</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-r-c07">
+              <seg type="diplomatic-text">厥婦人尤多按鬱冒元出素問至眞要大論氣交變大論雖有少</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-r-c08">
+              <seg type="diplomatic-text">不同究竟即是癇證故附于此後世稱婦人産後血暈</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f24-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十二　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f24-l-c01">
+              <seg type="diplomatic-text">者即是也</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-l-c02">
+              <seg type="diplomatic-text">血厥</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-l-c03">
+              <seg type="diplomatic-text">見上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-l-c04">
+              <seg type="diplomatic-text">風引</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-l-c05">
+              <seg type="diplomatic-text">外臺秘要所引崔氏方中云大人風引少小驚癇瘈瘲</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-l-c06">
+              <seg type="diplomatic-text">日數十發其終云此本仲景傷寒論方古今錄驗范汪</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-l-c07">
+              <seg type="diplomatic-text">同而今觀金匱方論中風歷節病中云風引湯除熱癱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-l-c08">
+              <seg type="diplomatic-text">癇方後林億等考乃舉治大人風引少小驚癇云云今</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f24-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十三　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第1欄「癇」下接雙行小字，同欄先右後左；「鳳皇臺」待覆核。第7欄「多」後有圈，「素問」下接雙行小字，同欄先右後左。第8欄「于」照圖，而「産」未正規化。其餘題旁圈和細訓點未逐點編碼。 左面：左頁第5欄末「瘈瘲」，第7欄末「癱」候回圖。第2、4欄題旁有圈；細訓點未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="25" facs="#f25" />
+        <div n="25" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f25-r-c01">
+              <seg type="diplomatic-text">按風引者謂如風中之牽引而攣急也遂以為大人之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-r-c02">
+              <seg type="diplomatic-text">癇名耳</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-r-c03">
+              <seg type="diplomatic-text">暗風</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-r-c04">
+              <seg type="diplomatic-text">見醫學綱目癇亦謂暗風此濫名之尤易惑者也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-r-c05">
+              <seg type="diplomatic-text">尸蹷</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-r-c06">
+              <seg type="diplomatic-text">史記扁鵲傳云扁鵲過虢虢太子死扁鵲至虢宮門下</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-r-c07">
+              <seg type="diplomatic-text">問中庶子喜方者曰太子何病中庶子曰暴蹷而死扁</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f25-r-c08">
+              <seg type="diplomatic-text">鵲曰其死何如時曰雞鳴至今曰收乎曰未也其死未</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f25-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十三　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f25-l-c01">
+              <seg type="diplomatic-text">能半日也言臣齊勃海秦越人也聞太子不幸而死臣</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-l-c02">
+              <seg type="diplomatic-text">能生之中庶子曰先生得無誕之乎何以言太子可生</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-l-c03">
+              <seg type="diplomatic-text">也扁鵲曰子以吾言為不誠試入診太子當聞其耳鳴</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-l-c04">
+              <seg type="diplomatic-text">而鼻張循其兩股以至於陰當尚温也中庶子乃以扁</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-l-c05">
+              <seg type="diplomatic-text">鵲言入報虢君虢君聞之大驚出見扁鵲於中闕曰竊</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-l-c06">
+              <seg type="diplomatic-text">聞高義之日久矣然未嘗得拜謁於前也先生過小國</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-l-c07">
+              <seg type="diplomatic-text">幸而舉之偏國寡臣幸甚有先生則活無先生則棄捐</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f25-l-c08">
+              <seg type="diplomatic-text">填溝壑長終而不得反言未卒因噓唏流涕悲不能自</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f25-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十四　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第3、5欄有題旁圈。第5、7欄「蹷」足形在下；第6欄三個「虢」依圖。細送假名及訓點未逐點編碼。 左面：左頁第1欄「勃海」照原圖，第8欄「噓唏」右旁細。細訓點和句讀點未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="26" facs="#f26" />
+        <div n="26" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f26-r-c01">
+              <seg type="diplomatic-text">止扁鵲曰若太子病所謂尸蹷者也乃使弟子子陽厲</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-r-c02">
+              <seg type="diplomatic-text">鍼砥石以取外三陽五會有間太子蘇乃使子豹為五</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-r-c03">
+              <seg type="diplomatic-text">分之熨以八減之齊和煮之以更熨兩脇下太子起坐</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-r-c04">
+              <seg type="diplomatic-text">更適陰陽但服湯二旬而復故故天下盡以扁鵲為能</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-r-c05">
+              <seg type="diplomatic-text">生死人扁鵲曰越人非能生死人也此自當生者越人</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-r-c06">
+              <seg type="diplomatic-text">能使之起耳此謂尸蹷者即是癇證也素問云五絡俱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-r-c07">
+              <seg type="diplomatic-text">竭令人身脈皆動而形無知也其狀若尸或曰尸厥繆刺</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-r-c08">
+              <seg type="diplomatic-text">論是也又傷寒論云少陰脈不至腎氣微少精血奔氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f26-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十四　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f26-l-c01">
+              <seg type="diplomatic-text">促迫上入胸膈宗氣反聚血結心下陽氣退下熱歸陰</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-l-c02">
+              <seg type="diplomatic-text">股與陰相動令身不仁此為尸蹷金匱方論云尸蹷脈</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-l-c03">
+              <seg type="diplomatic-text">動而無氣氣閉不通故靜而死也見雜療方按外臺秘要尸蹷方中所引</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-l-c04">
+              <seg type="diplomatic-text">張仲景云尸厥脈動云云觀之則雜療以下亦皆仲景所著不可疑也又素問遺編本病論亦有尸厥字</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-l-c05">
+              <seg type="diplomatic-text">病源候論云尸厥者陰氣逆也其狀如死猶微有息而</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-l-c06">
+              <seg type="diplomatic-text">不恒脈尚動而形無知也聽其耳内循循有如嘯之聲</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-l-c07">
+              <seg type="diplomatic-text">而股間暖是也耳内雖無嘯聲而脈動者故當以尸厥</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-l-c08">
+              <seg type="diplomatic-text">治之千金方及外臺秘要所引肘後方崔氏方皆同</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f26-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第2欄「鍼」左旁與右畫可辨，暫讀，第3欄「齊」照圖；第7欄「尸厥」後「繆刺」為欄尾雙行小字，以「繆」在右、「刺」在左讀入。句讀及細訓點未逐點編碼。 左面：左頁第3欄「也」後為割注，右行「見雜療方」後有圈，「按外臺」續到左行。第4欄同欄先右、次左，中有圈。第7欄「暖」候「煖」。第8欄「治之」下有圈；細訓點未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="27" facs="#f27" />
+        <div n="27" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f27-r-c01">
+              <seg type="diplomatic-text">此以厥逆上衝鬱冒怳惚不知人事似死狀猶尸故謂</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-r-c02">
+              <seg type="diplomatic-text">之尸厥耳其實則癇也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-r-c03">
+              <seg type="diplomatic-text">又史記云在趙者名扁鵲當晉昭公時諸大夫彊而公</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-r-c04">
+              <seg type="diplomatic-text">族弱趙簡子為大夫專國事簡子疾五日不知人索隱曰案</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-r-c05">
+              <seg type="diplomatic-text">韓子云十日不知人所記異也大夫皆懼於是召扁鵲扁鵲入視病出</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-r-c06">
+              <seg type="diplomatic-text">董安于問扁鵲扁鵲曰血脈治也而何怪昔秦穆公嘗</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-r-c07">
+              <seg type="diplomatic-text">如此七日而寤寤之日告公孫支與子輿曰我之帝所</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-r-c08">
+              <seg type="diplomatic-text">甚樂吾所以久者適有所學也今主君之病與之同不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f27-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f27-l-c01">
+              <seg type="diplomatic-text">出三日必間間必有言也居二日半簡子寤語諸大夫</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-l-c02">
+              <seg type="diplomatic-text">曰我之帝所甚樂與百神遊於鈞天廣樂九奏萬舞不</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-l-c03">
+              <seg type="diplomatic-text">類三代之樂其聲動心此事或是虚妄則已倘其有之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-l-c04">
+              <seg type="diplomatic-text">則決是癇證故併舉焉今時以是類為狐妖者由其不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-l-c05">
+              <seg type="diplomatic-text">知皆是癇證也或見所未嘗到之地語之無毫差或聞</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-l-c06">
+              <seg type="diplomatic-text">所未嘗知之事言之極詳悉或誦所未嘗學之書或目</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-l-c07">
+              <seg type="diplomatic-text">不識丁者遂成善書之人或諳禁方療疾或挾符咒禳</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-l-c08">
+              <seg type="diplomatic-text">疫此豈狐狸之所為哉皆是癇證中所有之事也猶與</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f27-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十六　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第4、5欄交界有跨欄割注，第4欄末「索隱／曰案」及第5欄首「韓子云十日不／知人所記異也」，欄內依先右後左。第7欄「如此」照圖。細送假名、訓點、句讀未逐點編碼。 左面：左頁第1欄「間間」兩字依圖；第6欄「悉」候「愁」；第7欄「諳」「挾」右旁待覆核，有一小紅墨點在「丁」旁。古代故事僅記敘，未載符咒實詞。細訓點、句讀未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="28" facs="#f28" />
+        <div n="28" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f28-r-c01">
+              <seg type="diplomatic-text">穆公簡子癲中所到帝所所聞仙樂及語未來事射熊</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f28-r-c02">
+              <seg type="diplomatic-text">賜犬何以異乎厥夢奇異之為癇也無復可疑焉予亦</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f28-r-c03">
+              <seg type="diplomatic-text">初聞狐怪疑心難決後而豁然覺其為癇但可與悟人</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f28-r-c04">
+              <seg type="diplomatic-text">言矣不可與昧者語也又按佛法浸染人間而後有</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f28-r-c05">
+              <seg type="diplomatic-text">人忽昏而觀升天堂落地獄等事而稱者此亦可知其</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f28-r-c06">
+              <seg type="diplomatic-text">為癇也</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f28-r-c07">
+              <seg type="diplomatic-text">附考史記正義曰陝州城古虢國又陝州河北縣東北</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f28-r-c08">
+              <seg type="diplomatic-text">下陽故城古虢即晉獻公滅者又洛州汜水縣古東虢</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f28-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十六　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f28-l-c01">
+              <seg type="diplomatic-text">國而未知扁鵲過何者蓋虢至此並滅也索隱曰案傅</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f28-l-c02">
+              <seg type="diplomatic-text">玄云虢是晉獻所滅先是百二十餘年至時焉得有虢</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f28-l-c03">
+              <seg type="diplomatic-text">則此云虢太子非也然案虢後改稱郭春秋有郭公蓋</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f28-l-c04">
+              <seg type="diplomatic-text">郭之太子也今案是時決無虢國而謂扁鵲過虢治</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f28-l-c05">
+              <seg type="diplomatic-text">虢太子疾者妄矣司馬貞思欲護短掩醜以為郭也可</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f28-l-c06">
+              <seg type="diplomatic-text">謂飾非也且讀劉向說苑以此事為趙太子則知當時</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f28-l-c07">
+              <seg type="diplomatic-text">欲贊秦越人妙術而傳播奬譽之浮說互相譌轉以趙</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f28-l-c08">
+              <seg type="diplomatic-text">為虢以昔為今蓋其事之有無則實不可知也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f28-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十七　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。 左面：左頁第2欄「至時」首字候「此」；第4欄「也」後有圈；第7欄「奬譽」「譌」暫按原形。細訓點、句讀未逐點編碼。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>奇</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>豁</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>也</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>昏</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>稱</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>附考</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>汜</quote>
+              <note type="editorial">右頁第2欄「奇」的大形略省；第3欄「豁」候讀；第4欄「也」後有圈；第5欄第3字「昏」形未定，末「稱」也待核；第7欄「附考」有外圈框；第8欄「汜」候「泛」。細訓點、句讀未逐點編碼。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="29" facs="#f29" />
+        <div n="29" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f29-r-c01">
+              <seg type="diplomatic-text">附考索隱曰案左氏簡子專國在定頃二公之時非當</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f29-r-c02">
+              <seg type="diplomatic-text">昭公之世且趙系家叙此事亦在定公之初正義曰靜</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f29-r-c03">
+              <seg type="diplomatic-text">公二年為三晉所滅據此及趙世家簡子疾在定公之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f29-r-c04">
+              <seg type="diplomatic-text">十一年也由是觀之則扁鵲診簡子亦甚可疑也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f29-r-c05">
+              <seg type="diplomatic-text">駁曰司馬遷作秦越人傳記其才秀者三焉曰診趙簡</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f29-r-c06">
+              <seg type="diplomatic-text">子也治虢太子也望齊桓侯也而詳考之則遷也既記</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f29-r-c07">
+              <seg type="diplomatic-text">晉趙世家則以簡子專國為在定頃之間而至記扁鵲</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f29-r-c08">
+              <seg type="diplomatic-text">傳則曰當晉昭公時此何其自矛盾若是乎虢先扁鵲</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f29-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十七　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f29-l-c01">
+              <seg type="diplomatic-text">時既滅過百二十餘年矣則扁鵲時何以得有虢太子</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f29-l-c02">
+              <seg type="diplomatic-text">乎齊桓公小白既卒歷年至扁鵲時齊無桓侯而曰望</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f29-l-c03">
+              <seg type="diplomatic-text">齊桓侯者不知何桓侯也此亦大可疑也如此則扁鵲</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f29-l-c04">
+              <seg type="diplomatic-text">三事竟皆不可信矣遷也作史記一百三十卷徒欲戲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f29-l-c05">
+              <seg type="diplomatic-text">弄浮文潤色虚妄誇逞才藝波瀾平地而不自知我辭</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f29-l-c06">
+              <seg type="diplomatic-text">矛楯不記國之既滅而無有之不挍人之有無嗚呼文</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f29-l-c07">
+              <seg type="diplomatic-text">人之無實也其亦至于斯耶由是觀之則一部史記道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f29-l-c08">
+              <seg type="diplomatic-text">聽塗說傳聞之浮譚多可疑者益覺其不可信也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f29-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十八　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第1欄「附考」外框照圖定位。第2欄「系家」照字形，第3、7欄另作「世家」。第7欄「至」候「立」。訓點、句讀未逐點編碼。 左面：左頁第6欄「楯」依木旁，「挍」依手旁與交形，仍可回圖。第7欄「于」照原；第8欄「塗」「譚」兩字照圖。訓點與句讀未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="30" facs="#f30" />
+        <div n="30" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f30-r-c01">
+              <seg type="diplomatic-text">附考索隱曰案傅玄曰是時齊無桓侯裴駰云謂是齊</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f30-r-c02">
+              <seg type="diplomatic-text">侯田和之子桓公午也蓋與趙簡子頗亦相當嘗閱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f30-r-c03">
+              <seg type="diplomatic-text">後漢書郭玉傳注云韓子曰扁鵲見晉桓侯曰君有疾</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f30-r-c04">
+              <seg type="diplomatic-text">在腠理也而實考韓非子則作蔡桓公此知當時傳播</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f30-r-c05">
+              <seg type="diplomatic-text">之浮說三轉市虎一謂齊一謂蔡為虚乎為實乎史記</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f30-r-c06">
+              <seg type="diplomatic-text">既難信也如韓子亦不能無疑焉予故不得不駁也</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f30-r-c07">
+              <seg type="diplomatic-text">子癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f30-r-c08">
+              <seg type="diplomatic-text">病源候論云妊娠痙候體虚受風停滯經絡發則口噤</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f30-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　二十八　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f30-l-c01">
+              <seg type="diplomatic-text">背強名之為痙妊娠而發者悶冒不識人須臾醒醒復</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f30-l-c02">
+              <seg type="diplomatic-text">發亦是風傷太陽之經作痙也亦名子癇亦名子冒也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f30-l-c03">
+              <seg type="diplomatic-text">後世子癇之名本乎此也此謬稱也夫癇之發也非胎</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f30-l-c04">
+              <seg type="diplomatic-text">之所為乃妊婦之疾耳故可謂之妊癇矣不可謂子癇</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f30-l-c05">
+              <seg type="diplomatic-text">也如子淋子腫皆同詳見淋門水脹門</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f30-l-c06">
+              <seg type="diplomatic-text">及癇發平旦者在足少陽晨朝發者在足厥陰日中發者</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f30-l-c07">
+              <seg type="diplomatic-text">在足太陽黄昏發者在足太陰人定發者在足陽明夜半</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f30-l-c08">
+              <seg type="diplomatic-text">發者在足少陰</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f30-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　二十九　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第1欄「附考」有外框，「駰」有馬旁；第2欄「當」後有圈；第5欄「三」旁有紅墨痕，第7欄有題旁圈。細訓點、句讀未逐點編碼。 左面：左頁第5欄「皆同」後有雙行小字，先右「詳見淋門」次左「水脹門」。第6至8欄有多枚讀點圈。第6欄首「及」照原形暫讀。細訓點、送假名及句讀未逐點編碼。</ab>
+          </div>
+        </div>
+        <pb n="31" facs="#f31" />
+        <div n="31" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f31-r-c01">
+              <seg type="diplomatic-text">見千金方、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f31-r-c02">
+              <seg type="diplomatic-text">晝發灸陽蹻、夜發灸陰蹻、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f31-r-c03">
+              <seg type="diplomatic-text">劉純玉機微義云、按潔古云、晝發灸陽蹻夜發灸陰蹻、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f31-r-c04">
+              <seg type="diplomatic-text">陽蹻癇、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f31-r-c05">
+              <seg type="diplomatic-text">見李杲蘭室祕藏、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f31-r-c06">
+              <seg type="diplomatic-text">奇經癲癇、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f31-r-c07">
+              <seg type="diplomatic-text">見王肯堂證治準繩、有陽維、陰維、督脈等癲、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f31-r-c08">
+              <seg type="diplomatic-text">重陽者狂、重陰者癲、</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f31-r-c08">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f31-l-c01">
+              <seg type="diplomatic-text">出八十一難、○癲狂元一病矣、何分陰陽之為、秦越人</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f31-l-c02">
+              <seg type="diplomatic-text">之說非也、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f31-l-c03">
+              <seg type="diplomatic-text">大人曰癲、小兒曰癇、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f31-l-c04">
+              <seg type="diplomatic-text">病源候論云、癇者小兒病也、十歲已上為癲、十歲已下</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f31-l-c05">
+              <seg type="diplomatic-text">為癇、醫學綱目云、徐嗣伯云、大人曰癲、小兒曰癇、是亦</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f31-l-c06">
+              <seg type="diplomatic-text">不知癲癇一病也、故王肯堂曰、素問謂癲為母腹中受</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁第二大欄「之說非也」下右小字</label>
+              <seg type="diplomatic-text" rend="unknown">丹溪纂要云重陰重陽之分難經之言也河</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁第二大欄「之說非也」下左小字</label>
+              <seg type="diplomatic-text" rend="unknown">間原病式本素問之論以明癲狂俱是熱病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁中部雙行第一欄右</label>
+              <seg type="diplomatic-text" rend="unknown">而重陰之說非也醫學正傳云難經陰陽之說恐非理</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁中部雙行第一欄左</label>
+              <seg type="diplomatic-text" rend="unknown">也賀岳醫經大旨亦同其他左袒劉朱者皆非秦說又</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁中部雙行第二欄右</label>
+              <seg type="diplomatic-text" rend="unknown">取秦說者如王肯堂證治準繩張介賓景岳全書費</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c06">
+              <label>左頁中部雙行第二欄左</label>
+              <seg type="diplomatic-text" rend="unknown">辭紛紛以陰陽之說為是也竟不免醫家之腐譚哉</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f31-l-c06">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　三十　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第三欄「蹻」旁見刻點，整幅正文右側的片假名、返點未逐點轉寫。 左面：左頁自右起第二大欄下接兩整欄小字，順讀右小欄至左小欄逐對；未混入主欄。末欄「謂癲為母」照底本。</ab>
+          </div>
+        </div>
+        <pb n="32" facs="#f32" />
+        <div n="32" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f32-r-c01">
+              <seg type="diplomatic-text">驚所致、今乃曰小兒無癲可乎、癇病大人每每有之、婦</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f32-r-c02">
+              <seg type="diplomatic-text">人尤多、赤水玄珠亦剽此說</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f32-r-c03">
+              <seg type="diplomatic-text">癇屬驚與痰、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f32-r-c04">
+              <seg type="diplomatic-text">朱震亨意如此、故丹溪心法附餘方廣之言是也、夫癇</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f32-r-c05">
+              <seg type="diplomatic-text">即驚、驚即癇、何有因驚發癇之事乎、凡有癇氣者、必驚、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f32-r-c06">
+              <seg type="diplomatic-text">非因驚生癇、猶有痱氣者、必仆倒、發痱也、若無癇氣者、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f32-r-c07">
+              <seg type="diplomatic-text">雖屢驚怖、不發癇、亦猶無痱氣者、雖間仆倒、不發痱也、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f32-r-c08">
+              <seg type="diplomatic-text">後醫奉朱說者、輒謂癇因驚而生、必勿驚之、此乃今俗</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f32-r-c08">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f32-l-c01">
+              <seg type="diplomatic-text">所謂痱因仆倒而生、慎勿仆倒者也、疎漏亦甚矣、痰固</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f32-l-c02">
+              <seg type="diplomatic-text">其故態矣、不暇強辨也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f32-l-c03">
+              <seg type="diplomatic-text">五臟各有獸形、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f32-l-c04">
+              <seg type="diplomatic-text">錢氏小兒直訣云、凡治五癇、皆隨臟治之、每臟各有一</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f32-l-c05">
+              <seg type="diplomatic-text">獸之形、若反折上竄其聲如犬、症屬肝也、若目瞪吐舌、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f32-l-c06">
+              <seg type="diplomatic-text">其聲如羊、症屬心也、若目直腹痛、其聲如牛、症屬脾也、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f32-l-c07">
+              <seg type="diplomatic-text">若驚跳、反折手縱、其聲如雞、症屬肺也、若肢體如尸、口</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f32-l-c08">
+              <seg type="diplomatic-text">吐涎沫、其聲如猪、症屬腎也、錢乙門人閻孝忠集此以</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f32-l-c08">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　三十一　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第二欄「剽」旁朱點；「痱」照疒部兼非形。附刻假名、返點未逐點轉寫。 左面：左頁第一欄「疎」、第七欄「縱」存按圖候讀。</ab>
+          </div>
+        </div>
+        <pb n="33" facs="#f33" />
+        <div n="33" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f33-r-c01">
+              <seg type="diplomatic-text">獸配五臟、尤不經之愚者也、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f33-r-c02">
+              <seg type="diplomatic-text">以獸配臟有胃無腎</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f33-r-c03">
+              <seg type="diplomatic-text">陳言三因方云、病者旋暈云云、作馬嘶鳴、名曰馬癇、以</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f33-r-c04">
+              <seg type="diplomatic-text">馬屬在午、手少陰君火主之、故其病生心經、病者暈眩</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f33-r-c05">
+              <seg type="diplomatic-text">云云、作羊叫聲、名曰羊癇、以羊屬未坤位、足太陰濕土</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f33-r-c06">
+              <seg type="diplomatic-text">主之、故其病生脾經、病者昏暈云云、叫作雞聲、名曰雞</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f33-r-c07">
+              <seg type="diplomatic-text">癇、以雞屬酉、足陽明燥金主之、故其病生胃經、病者眩</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f33-r-c08">
+              <seg type="diplomatic-text">暈云云、作猪叫鳴、名曰猪癇、以猪屬亥、手厥陰心胞風</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f33-r-c08">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f33-l-c01">
+              <seg type="diplomatic-text">木主之、故其病生右腎經、病者眩暈云云、作牛吼聲、名</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f33-l-c02">
+              <seg type="diplomatic-text">曰牛癇、以牛屬丑、手太陰濕土主之、故其病生肺經、又</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f33-l-c03">
+              <seg type="diplomatic-text">云、夫五癇、合屬五臟、而無腎有胃者、以腎屬鼠、非畜養</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f33-l-c04">
+              <seg type="diplomatic-text">物、神無主治、故不作癇、胃屬雞、係六畜物、故有象爾、胃</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f33-l-c05">
+              <seg type="diplomatic-text">為五臟海、非餘府比、又犬屬戌、手太陽小腸經主之、雖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f33-l-c06">
+              <seg type="diplomatic-text">屬六畜、初無犬癇者、以辰戌為魁罡四殺沒處、不與癇</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f33-l-c07">
+              <seg type="diplomatic-text">象、古方類例、未之究也、嗚呼、陳言此說怪僻邪曲、無道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f33-l-c08">
+              <seg type="diplomatic-text">理若是其甚矣、以其尤愚惑、舉而見之耳、言也既如是</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f33-l-c08">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　三十二　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第六欄「昏」候讀；「猪」「心胞」依底本寫法。附刻日語送讀、返點未逐點轉寫。 左面：左頁第二欄「手太陰濕土」照書所引；第六欄「罡」下旁見朱墨，第八欄「耳、言」不擅改。</ab>
+          </div>
+        </div>
+        <pb n="34" facs="#f34" />
+        <div n="34" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f34-r-c01">
+              <seg type="diplomatic-text">也、況其以下醫流乎、可以想見也、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f34-r-c02">
+              <seg type="diplomatic-text">內經言癲不言癇、癇歸五臟、癲屬心、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f34-r-c03">
+              <seg type="diplomatic-text">玉機微義云、按內經言癲、而不言癇、古方以癲癇或併</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f34-r-c04">
+              <seg type="diplomatic-text">言、或言風癲、或言風癇、或言癲狂、所指不一、蓋癇病歸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f34-r-c05">
+              <seg type="diplomatic-text">于五臟、癲病屬之於心、故今以風癇別立一門、而癲狂</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第一大欄末右小字</label>
+              <seg type="diplomatic-text" rend="unknown">玉機微義云案千金</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第一大欄末左小字</label>
+              <seg type="diplomatic-text" rend="unknown">方叙六畜癇曰馬曰</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第二欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">牛曰羊曰猪曰犬曰雞並不以六畜分屬五臟今三因</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第二欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">所引五癇無犬癇一證錢氏叙五癇一證無馬癇一證</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第三欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">二書以五獸分配五臟各各不同俱不知所由然也三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第三欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">因雖有馬無犬癇及五臟有胃無腎之說亦難據憑劉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第四欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">純此說雖未快駁辨而頗知陳言</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c05">
+              <label>右頁第四欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">之滅裂稍足可謂為故書以出焉</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f34-r-c05">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f34-l-c01">
+              <seg type="diplomatic-text">合為一門也、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f34-l-c02">
+              <seg type="diplomatic-text">證治準繩云、素問止言癲而不及癇、靈樞乃有癇瘈瘲</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f34-l-c03">
+              <seg type="diplomatic-text">厥之名、諸書有言癲狂者、有言癲癇者、有言風癇者、有</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f34-l-c04">
+              <seg type="diplomatic-text">言驚癇者、有分癲癇為二門者、迄無定論、究其獨言癲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f34-l-c05">
+              <seg type="diplomatic-text">者、祖素問也、言癲癇、言癲狂者、祖靈樞也、要之癲癇狂</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f34-l-c06">
+              <seg type="diplomatic-text">大相逕庭、非名殊而實一之謂也、靈樞雖編癲狂為一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f34-l-c07">
+              <seg type="diplomatic-text">門、而形證兩具、取治異途、較之於癇、又不侔矣、靈樞既</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁第一大欄「也」下右小字</label>
+              <seg type="diplomatic-text" rend="unknown">赤水玄珠孫一奎曰按此以風癇別立一</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁第一大欄「也」下左小字</label>
+              <seg type="diplomatic-text" rend="unknown">門明其不與癲狂相類則是之矣而云癲</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁第二欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">狂合為一門今終集考之並</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁第二欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">無癲狂門目豈未之補歟</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁欄上後筆右</label>
+              <seg type="diplomatic-text" rend="unknown">赤水玄珠</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁欄上後筆中</label>
+              <seg type="diplomatic-text" rend="unknown">剽竊此說</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
+              <label>左頁欄上後筆左</label>
+              <seg type="diplomatic-text" rend="unknown">造作者</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f34-l-c07">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　三十三　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁首欄下至第四欄的小字逐對分錄，正文有刻訓點、假名送讀，未逐點轉寫。 左面：左頁欄上墨註「剽竊」「造作者」候讀；倒數第二欄「逕庭」旁紅墨。正文異體「瘈瘲」按圖候讀。</ab>
+          </div>
+        </div>
+        <pb n="35" facs="#f35" />
+        <div n="35" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f35-r-c01">
+              <seg type="diplomatic-text">錦囊祕錄云、癇者惡病也、其症有五、一曰驚癇、心</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f35-r-c02">
+              <seg type="diplomatic-text">症也、二曰風癇、肝症也、三曰食癇、脾症也、四</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f35-r-c03">
+              <seg type="diplomatic-text">曰顛癇、肺症也、五曰尸癇、腎症也、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f35-r-c04">
+              <seg type="diplomatic-text">駁曰、劉純謂內經不言癇、疎漏既甚矣、如王肯堂博聞</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f35-r-c05">
+              <seg type="diplomatic-text">強記、尚謂素問不言癇、此亦何不考乎、倶由昧於癇之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f35-r-c06">
+              <seg type="diplomatic-text">所致也、素靈並言癇、前已舉載焉、</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第一欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">為一門則以見古人能知雖外面為癲為狂其證如異</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第一欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">而其根本則是同一病也肯堂不是之知何其昧惑乎</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第二大欄「驚癇」下小字</label>
+              <seg type="diplomatic-text" rend="unknown">俗名羊癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第三大欄「風癇」下小字</label>
+              <seg type="diplomatic-text" rend="unknown">俗名犬癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第三大欄「食癇」下小字</label>
+              <seg type="diplomatic-text" rend="unknown">俗名牛癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第四大欄「顛癇」下小字</label>
+              <seg type="diplomatic-text" rend="unknown">俗名雞癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第四大欄「尸癇」下小字</label>
+              <seg type="diplomatic-text" rend="unknown">俗名猪癇</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第四大欄末右小字</label>
+              <seg type="diplomatic-text" rend="unknown">此欲強為</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第四大欄末左小字</label>
+              <seg type="diplomatic-text" rend="unknown">牽合配當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第五欄雙行右</label>
+              <seg type="diplomatic-text" rend="unknown">五臟以傳會五癇之名目真○赤水玄珠別癲狂癇三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c06">
+              <label>右頁第五欄雙行左</label>
+              <seg type="diplomatic-text" rend="unknown">者流也或益足以廣聞也證甚非也故不舉文</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f35-r-c06">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f35-l-c01">
+              <seg type="diplomatic-text">神農本艸、亦多言之、究竟以癲狂驚、雖形證異、而其元</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f35-l-c02">
+              <seg type="diplomatic-text">同一癇證、故素靈多併言之耳、若夫謂陰陽寒熱五臟</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f35-l-c03">
+              <seg type="diplomatic-text">屬心、徑庭異途、諸說皆由不透真竅也、今有癲狂兼患者、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f35-l-c04">
+              <seg type="diplomatic-text">設使謂癲為陰、為寒、謂狂為陽、為熱、則將以兼病者</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f35-l-c05">
+              <seg type="diplomatic-text">為何因乎、隨陰耶、隨陽耶、攻寒耶、攻熱耶、抑亦為補瀉</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f35-l-c06">
+              <seg type="diplomatic-text">兼施、寒熱併用之騎牆耶、其將誰適從耶、誤邪之言、益</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f35-l-c07">
+              <seg type="diplomatic-text">足以見其所蔽窮也、予往年治大宮□里菱家子、年十</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f35-l-c08">
+              <seg type="diplomatic-text">七、患癇、朝發癲昏暈、吐涎、不省人事、午後發怒狂、大聲</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f35-l-c08">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癇　三十四　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第五欄左右小字各見兩段，後段似同前段不同組，候逐點校讀。假名、返點未逐點轉寫。 左面：左頁原第七欄「大宮□里菱家」□候讀「終」或「絲」，不定；「本艸」按刻。</ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="36" facs="#f36" />
+        <div n="36" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f36-r-c01">
+              <seg type="diplomatic-text">罵詈、不避親疎、夜發驚、恐人、駭怖、間亦搐搦、而不發癲</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f36-r-c02">
+              <seg type="diplomatic-text">狂驚之間、沈沈默默、好暗處、帶愁容、即癇也、乃用療癇</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f36-r-c03">
+              <seg type="diplomatic-text">方、全愈、若此癇人、四證盡備、以其同一病故也、記之可</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f36-r-c04">
+              <seg type="diplomatic-text">以破從前醫家者流之惑說也、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f36-r-c05">
+              <seg type="diplomatic-text">已上名稱論說。皆是迂濫懵懂。不得要約。無益於診候。有</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f36-r-c06">
+              <seg type="diplomatic-text">害于治事。古今華人。驕誇名稱。却多因名迷實。遂至謂馬</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f36-r-c07">
+              <seg type="diplomatic-text">癇用某方。猪癇用某方。支離煩猥。絕不知一本之旨趣。雖</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f36-r-c08">
+              <seg type="diplomatic-text">不足深責、而以其害于療術。故詳辨正焉。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f36-r-c08">
+              <label>右頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f36-l-c01">
+              <seg type="diplomatic-text">癡騃</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f36-l-c02">
+              <seg type="diplomatic-text">未發驚癇之前。頴悟小兒。而一發驚癇後。遂變成癡騃者。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f36-l-c03">
+              <seg type="diplomatic-text">比比而有之。此由驚癇發作甚劇。而神識頓脫。也其後</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f36-l-c04">
+              <seg type="diplomatic-text">飲食。二便。如平常人。唯面貌愚魯。多笑。不知羞惡。雖固非</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f36-l-c05">
+              <seg type="diplomatic-text">必證。終為蠢物。決不得復舊態也。故無治法。間有生來癡</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f36-l-c06">
+              <seg type="diplomatic-text">騃兒。此乃天然不慧。非人力所及也。固不須論治。若夫大</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f36-l-c07">
+              <seg type="diplomatic-text">人驚恐後。頓成癡蠢者。乃百中之一二耳。究竟癡騃。亦癇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f36-l-c08">
+              <seg type="diplomatic-text">證之一候也。如張介賓以癲狂癡騃立門。似則似矣。但其</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f36-l-c08">
+              <label>左頁外側版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癡騃　三十五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁第五欄以下換小字；「迂濫」「驕」候讀。圈形、頓形按眼判型，附刻返點與送讀假名未逐點轉寫。 左面：左頁首題「癡騃」，第二欄「頴悟」後朱墨，依見形候讀；第五欄「蠢」、第八欄「門」存讀。</ab>
+          </div>
+        </div>
+        <pb n="37" facs="#f37" />
+        <div n="37" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f37-r-c01">
+              <seg type="diplomatic-text">所說之證。近狂。近健忘。雖所原則一。而亦各有分辨。故與</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f37-r-c02">
+              <seg type="diplomatic-text">吾門所立癡騃。有少不同</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f37-r-c03">
+              <seg type="diplomatic-text">景岳全書云、癡獃證、凡平素無疾、而或以鬱結、或以不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f37-r-c04">
+              <seg type="diplomatic-text">遂、或以憂慮、或以疑貳、或以驚恐、而漸致癡獃、言辭顚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f37-r-c05">
+              <seg type="diplomatic-text">倒、舉動不經、或多汗、或善愁、其證則千奇萬怪、無所不</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f37-r-c06">
+              <seg type="diplomatic-text">至、脈必或弦、或數、或大、或小、變易不常、此其逆氣在心、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f37-r-c07">
+              <seg type="diplomatic-text">然此證、有可愈者、有不可愈者、亦在乎胃氣元氣之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f37-r-c08">
+              <seg type="diplomatic-text">強弱、待時而復、非可急也、其謂言辭顚倒、舉動不經者、</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f37-r-c08">
+              <label>右頁第七欄起首雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">下略</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f37-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f37-l-c01">
+              <seg type="diplomatic-text">直是狂證、固非癡騃、而善愁、亦非癡騃者所為也、由是</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f37-l-c02">
+              <seg type="diplomatic-text">觀之、張之此論、似不切當、且以此證、專屬大人者、尤可</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f37-l-c03">
+              <seg type="diplomatic-text">疑也、此證、小兒每多有之、大人至尠、所以益難取信也、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f37-l-c04">
+              <seg type="diplomatic-text">李仲梓病機沙篆、舉失志、癡呆亦同</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f37-l-c04">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　癡騃　三十六　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁起第三欄字較小，為引書及辨論，同一實體直欄逐列。 左面：左頁第四欄「呆」側有紅點，未作原刻標點。 左面：欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="38" facs="#f38" />
+        <div n="38" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f38-l-c01">
+              <seg type="diplomatic-text">體輭</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f38-l-c02">
+              <seg type="diplomatic-text">小兒生下。百日左右。頭骨始定。頭形始正。當是之時。頭形</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f38-l-c03">
+              <seg type="diplomatic-text">未正而傾軟。則已有輭證之慮。至二三歲間。頭半正。易傾</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f38-l-c04">
+              <seg type="diplomatic-text">輭。手指可攝。不能持物。脚或痿輭。不能步。或雖行。振振搖</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f38-l-c05">
+              <seg type="diplomatic-text">搖。如半痿人步。語言含糊不決。目中面容。如癡騃人。雖然</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f38-l-c06">
+              <seg type="diplomatic-text">飲食二便。不異常人。故皮肉豐滿。色澤鮮明。只是皮肉柔</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f38-l-c07">
+              <seg type="diplomatic-text">輭。似無骨耳。自六七歲。至十歲以上。竟是不免騃物。間有</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f38-l-c08">
+              <seg type="diplomatic-text">半體輭者。又有患驚癇後。遂成此證者。究竟亦癇證也。多</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f38-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　體輭　三十七　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁正文區空白，可見反向透墨。 左面：左頁第三欄「傾軟」用軟，下同義字多作輭，照圖區別。 左面：左頁第七欄末「間」疑字，圖上筆畫縮省。 左面：欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>間</quote>
+              <note type="editorial">左頁第七欄末「間」疑字，圖上筆畫縮省。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="39" facs="#f39" />
+        <div n="39" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f39-r-c01">
+              <seg type="diplomatic-text">不及十五而斃。間有及二十三十者。較幼稚時。諸證少減。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f39-r-c02">
+              <seg type="diplomatic-text">體肉稍敦耳。且初生小兒。固有稱五輭者。即是也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f39-r-c03">
+              <seg type="diplomatic-text">古今醫統云、五輭證、名曰胎怯、良由父精不足、母血氣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f39-r-c04">
+              <seg type="diplomatic-text">衰而得、有因母血氣弱而孕者、有受胎而母多疾者、或</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f39-r-c05">
+              <seg type="diplomatic-text">其父母貪色、體氣虛弱、或年紀已邁、而復見子、有日月</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f39-r-c06">
+              <seg type="diplomatic-text">不足而生者、或服墮胎之劑、不去而竟成胎者、耗傷眞</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f39-r-c07">
+              <seg type="diplomatic-text">氣、及其降生之後、精氣不充、筋骨痿弱、肌肉虛瘦、神色</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f39-r-c08">
+              <seg type="diplomatic-text">昏慢、致使頭、項、手、足、身體、軟弱、名曰五軟、</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f39-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f39-l-c01">
+              <seg type="diplomatic-text">錦囊祕錄云、五軟者、手、脚、腰、背、頭軟是也、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f39-l-c02">
+              <seg type="diplomatic-text">證治準繩云、五輭者、頭輭項輭手輭、脚輭、肌肉輭、口輭、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f39-l-c03">
+              <seg type="diplomatic-text">是也、無故不舉頭、腎病之病、項脈輭而難收、治雖暫瘥、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f39-l-c04">
+              <seg type="diplomatic-text">他年必再發、手軟則手垂、四肢無力、亦懶攢眉、若得聲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f39-l-c05">
+              <seg type="diplomatic-text">圓、還進飲食、乃慢脾風候也、肌肉輭、則肉少、皮寛、自離</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f39-l-c06">
+              <seg type="diplomatic-text">喫食、不長肌肉、脚輭者、五歲兒不能行、虛羸、脚輭、細小、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f39-l-c07">
+              <seg type="diplomatic-text">不妨榮衛長大、自然肌肉充滿、口輭、則虛舌出口、陽盛、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f39-l-c08">
+              <seg type="diplomatic-text">更須隄防、必須治膈、却無妨、此有五輭名目、而有六輭</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f39-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　體輭　三十八　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁第二欄「稍敦」的敦暫讀，待覆。 左面：右頁第八欄與左頁第一、四欄有「軟」，其餘多作「輭」，照圖區別。 左面：左頁第四欄底「聲」側有紅點，未作原刻標點。 左面：欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="40" facs="#f40" />
+        <div n="40" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f40-r-c01">
+              <seg type="diplomatic-text">者、何哉、○又云、薛夫頭輭者、臟腑骨脈皆虛、諸陽之氣</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f40-r-c02">
+              <seg type="diplomatic-text">不足也、乃天柱骨弱、手足輭者、中州之氣不足、不能榮</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f40-r-c03">
+              <seg type="diplomatic-text">養四肢、故肉少、皮寛、飲食不為肌膚也、口輭者、脾胃氣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f40-r-c04">
+              <seg type="diplomatic-text">虛、舌不能藏、而常舒出也、此五者、皆因稟五臟之氣虛</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f40-r-c05">
+              <seg type="diplomatic-text">弱、不能滋養充達、故骨脈不強、肢體痿弱、原其要、總歸</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f40-r-c06">
+              <seg type="diplomatic-text">於胃、此亦有四輭、而謂此五者、則所引書脫文耶、亦可</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f40-r-c07">
+              <seg type="diplomatic-text">疑也、○又云、曾戴氏論五輭證、名曰胎怯、良由父精不</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f40-r-c08">
+              <seg type="diplomatic-text">足、母血素衰而得、誠哉是言、以愚推之、有因母血海久</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f40-r-c08">
+              <label>右頁第一欄方框</label>
+              <seg type="diplomatic-text" rend="unknown">薛</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f40-r-c08">
+              <label>右頁第七欄方框</label>
+              <seg type="diplomatic-text" rend="unknown">曾</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f40-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f40-l-c01">
+              <seg type="diplomatic-text">冷、用藥強補、有孕者、有受胎而母多疾者、或其父好色</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f40-l-c02">
+              <seg type="diplomatic-text">貪酒、氣體虛弱、或年事已邁、而後見子、有日月不足而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f40-l-c03">
+              <seg type="diplomatic-text">生者、或投墮胎之劑、不去而竟成孕者、徒爾耗傷眞氣、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f40-l-c04">
+              <seg type="diplomatic-text">苟或有生、譬諸陰地淺土之草、雖有發生、而暢茂者少、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f40-l-c05">
+              <seg type="diplomatic-text">又如培植樹木、動搖其根、而成者鮮矣、由是論之、嬰孩</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f40-l-c06">
+              <seg type="diplomatic-text">怯弱、不耐寒暑、縱使成人、亦多有疾、爰自降生之後、精</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f40-l-c07">
+              <seg type="diplomatic-text">髓不充、筋骨痿弱、肌肉虛瘦、神色昏慢、才為六淫所侵、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f40-l-c08">
+              <seg type="diplomatic-text">便致頭項手足身輭、是名五輭○又云、有小兒體肥容</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f40-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　體輭　三十九　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁「薛」「曾」方框均照在欄中的位置錄，框形另記。 左面：○為原刻分段大圈，與貼字小圈區分。欄旁返點與假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="41" facs="#f41" />
+        <div n="41" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f41-r-c01">
+              <seg type="diplomatic-text">壯、不為瘦瘁、忽然項輭傾倒、此名下竄、皆因肝腎氣虛、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f41-r-c02">
+              <seg type="diplomatic-text">客邪侵襲風府、傳於筋骨、故成此疾、筋骨俱弱、則項輭、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f41-r-c03">
+              <seg type="diplomatic-text">垂下無力、又名天柱倒、與五輭相類、不遠、○又云、王先</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f41-r-c04">
+              <seg type="diplomatic-text">生云、小兒久患癇疾、體虛、久不進飲食、患來日久、諸候</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f41-r-c05">
+              <seg type="diplomatic-text">退、只是天柱骨倒、醫者不識、謂之五輭候、</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f41-r-c05">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f41-l-c01">
+              <seg type="diplomatic-text">不食</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f41-l-c02">
+              <seg type="diplomatic-text">不食證。亦殆奇疾。古今醫書。未有明言及者。以予所見及。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f41-l-c03">
+              <seg type="diplomatic-text">既餘三十人。多是婦女。而男子只有二三。其證。他無所苦。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f41-l-c04">
+              <seg type="diplomatic-text">只不思粒食。或食麥飯。或糯米粉。或赤小豆。或豆腐屑。或</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f41-l-c05">
+              <seg type="diplomatic-text">偏好一種蔬果。或終日不喫食餌。而不飢。自數日。至數月。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f41-l-c06">
+              <seg type="diplomatic-text">以及數年。然形體不瘦。脈多平緩。間或苦癥。或痞。或痛。若</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f41-l-c07">
+              <seg type="diplomatic-text">強與之食。必吐。不吐必痛。投之湯藥。亦多吐。不吐。則藥氣</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f41-l-c08">
+              <seg type="diplomatic-text">滿胸中。煩悶多時。其證萬態。不可縷舉。醫人不知此證。強</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f41-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　不食　四十　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁第一欄「瘁」形近「瘠」，暫讀瘁。左頁第六欄「癥」「痞」筆密，暫讀。 左面：○為原刻分段大圈。欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="42" facs="#f42" />
+        <div n="42" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f42-r-c01">
+              <seg type="diplomatic-text">妄投藥。攻之補之。病家亦恐其不食。延醫請巫。屢藥益逆。</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f42-r-c02">
+              <seg type="diplomatic-text">嘔吐甚劇。痛苦彌多。幾至委頓而止。遇此證者。以措而不</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f42-r-c03">
+              <seg type="diplomatic-text">治。乃為眞治法。第一以不瘦為佳兆。其次脈平緩。小便順</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f42-r-c04">
+              <seg type="diplomatic-text">利。月血不滯。皆無病之候。苟能守法。外防邪襲。只聽其所</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f42-r-c05">
+              <seg type="diplomatic-text">好。少少與食之。待自然回復而可也。今舉予所見。以廣異</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f42-r-c06">
+              <seg type="diplomatic-text">聞。苟能據此以處置焉。則庶乎其不遺矣。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f42-r-c07">
+              <seg type="diplomatic-text">一室女年十六。只食雪花菜。其他一切不食。父母憂之。請</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f42-r-c08">
+              <seg type="diplomatic-text">予診視。其皮肉不瘦。色澤鮮明。脈平緩。予曰。勿憂。不久將</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f42-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f42-l-c01">
+              <seg type="diplomatic-text">復平生。此時已半年所。予又曰。必勿藥。若投藥。則諸患蜂</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f42-l-c02">
+              <seg type="diplomatic-text">起。其父母堅守予言。一年餘。自然復常食。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f42-l-c03">
+              <seg type="diplomatic-text">源亞槐家臣澤田祐房妻。年未三十。忽患此證。醫者無知。</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f42-l-c04">
+              <seg type="diplomatic-text">頻投湯藥。病家固迷。屢供饔飧。病婦若欲不食。則家人朝</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f42-l-c05">
+              <seg type="diplomatic-text">勸暮進。懇請親切。若欲不飲藥。則醫者怖之。主公怒之。遂</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f42-l-c06">
+              <seg type="diplomatic-text">乃恐苦。而食之則直吐。藥之則亦直吐。病婦困窮。無所告</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f42-l-c07">
+              <seg type="diplomatic-text">訴。徒自啼泣耳。最後請予診。予曰。此證。予見來也。亦已多</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f42-l-c08">
+              <seg type="diplomatic-text">矣。若從予言。則應保不死。不然。則予亦無術可施。秖須他</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f42-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　不食　四十一　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁第七欄「花」旁有紅點，未作原刻標點。 左面：左頁第一欄首字「復」右側有墨斑。末欄「秖」形近「秪」，暫讀。 左面：欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="43" facs="#f43" />
+        <div n="43" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f43-r-c01">
+              <seg type="diplomatic-text">求。祐房曾屢見聞予療奇疾。乃請聽予言堅守。予乃曰。不</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f43-r-c02">
+              <seg type="diplomatic-text">須強食。不須飲藥。只宜少喫所好。以俟時至。祐房又請灸。</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f43-r-c03">
+              <seg type="diplomatic-text">予曰。灸亦不須為也。病婦喜見顏色。遂堅信予算。不容他</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f43-r-c04">
+              <seg type="diplomatic-text">言。凡八九年。而後始得三五日間。偶喫常食之半。或一回。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f43-r-c05">
+              <seg type="diplomatic-text">或二回。延及十二年。而始復常矣。其間。或一日。刈胡葱煮。</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f43-r-c06">
+              <seg type="diplomatic-text">食一碗。或一日。炊碎麥。食半碗。或喫麵線。或啖生果。大約</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f43-r-c07">
+              <seg type="diplomatic-text">所喫。視平素常食。為十之一二。及其至甚。則晝夜之間。止</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f43-r-c08">
+              <seg type="diplomatic-text">是飲湯半口。烟草一吸而已矣。而皮肉不瘦。月血無月不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f43-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　卷之五　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f43-l-c01">
+              <seg type="diplomatic-text">來。小便順利。大便半月一解。或一月一回。而裁縫不懈。中</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f43-l-c02">
+              <seg type="diplomatic-text">饋能辦。只覺一身無力。步履頗難。其他更無所苦。今既五</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f43-l-c03">
+              <seg type="diplomatic-text">十矣。尚且無恙。夫妻感戴拜謝。每對人。必語予處置。以為</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f43-l-c04">
+              <seg type="diplomatic-text">奇計。實不知以不治為眞治法也。且有一大可怪事。病婦</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f43-l-c05">
+              <seg type="diplomatic-text">自得病以來。右頰生輭瘡。膿水微微不斷。病婦愧面瘡。招</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f43-l-c06">
+              <seg type="diplomatic-text">瘍醫。貼膏藥。予曰。勿以為也。如是必閉毒。恐釀後來之害。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f43-l-c07">
+              <seg type="diplomatic-text">不聽。果然。面瘡愈。則右股又生瘡。不謹覆轍。復貼膏藥。於</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f43-l-c08">
+              <seg type="diplomatic-text">是乎。瘡口已收。則又當其左右。突發一口。隨愈隨發。殆不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f43-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言　不食　四十二　一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：右頁第一、二欄在「乃請」「所好」附近有交疊後加墨痕，其下原刻讀法暫定。 左面：右頁「刈」及左頁第七欄「謹」「覆轍」暫讀。左頁第二欄首「饋」旁有紅點，未作原刻標點。 左面：欄旁返點及假名送讀留存於原圖，未逐點錄入。</ab>
+          </div>
+        </div>
+        <pb n="44" facs="#f44" />
+        <div n="44" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f44-r-c01">
+              <seg type="diplomatic-text">知其幾十回許綿綿歷數年膿水自然盡而全痊痕跡凹</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f44-r-c02">
+              <seg type="diplomatic-text">凹磊磈不可名狀嗚呼此不食之人有津液得何賴生而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f44-r-c03">
+              <seg type="diplomatic-text">數年閱月信不滯又且膿水淋漓如是耶尤不可解也天</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f44-r-c04">
+              <seg type="diplomatic-text">地變化固不可量人身變化亦猶如是以活物也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f44-r-c05">
+              <seg type="diplomatic-text">都下大賈井川家主管櫻井十某年過四十忽患此證或</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f44-r-c06">
+              <seg type="diplomatic-text">食碎麥或以糯米為粉水搜為餅蒸食其妻婦女之情深</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f44-r-c07">
+              <seg type="diplomatic-text">憂不食粳米陰於他舍用粳米為粉和糯粉蒸熟進之病</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f44-r-c08">
+              <seg type="diplomatic-text">人撮蒸餅入口直吐出曰今日之餅何由有粳氣乎不可</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f44-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f44-l-c01">
+              <seg type="diplomatic-text">食其妻纔吐其實遂去粳粉作糯餅與之喫之如此或一</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f44-l-c02">
+              <seg type="diplomatic-text">日煮□喫三碗飲酒三盞耳病人固信予已聽以不治為</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f44-l-c03">
+              <seg type="diplomatic-text">真活法之說確執不詢他醫凡八年而始復平常其間患</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f44-l-c04">
+              <seg type="diplomatic-text">痔便血日三五合二十三日而止此亦不食之人下血如</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f44-l-c05">
+              <seg type="diplomatic-text">是非可怪乎後來壯健及六十餘而歿</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f44-l-c06">
+              <seg type="diplomatic-text">和州村夫年未四十患此證周年聽予療奇疾來請</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f44-l-c07">
+              <seg type="diplomatic-text">診曰不食粳麥只食蠶豆日約一合換數醫治無效皆曰</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f44-l-c08">
+              <seg type="diplomatic-text">不知病名冀賜妙劑予望其形狀已瘦且疲此以其屢經</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+              <label>左頁第6欄「村夫」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">忘其／鄉名</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f44-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不食／四十三／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁版口外多重葉緣疊見，對照右側版心。第二欄石旁相重兩字、第五欄人名「櫻井」依圖候讀。 左面：左頁第2欄煮後字待核。第7欄豆往上有淡朱點，未納黑字。</ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>□</quote>
+              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左頁第2欄煮後字待核。第7欄豆往上有淡朱點，未納黑字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="45" facs="#f45" />
+        <div n="45" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f45-r-c01">
+              <seg type="diplomatic-text">攻補也予乃慰曰蠶豆固可易穀以續命若單食此物或</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f45-r-c02">
+              <seg type="diplomatic-text">成飛仙亦未可知只愁汝不是之用復就醫治則安否亦</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f45-r-c03">
+              <seg type="diplomatic-text">未可知也其後不聞生歿如何</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f45-r-c04">
+              <seg type="diplomatic-text">都下織鋪婦年近三十患此證日日所喫止三品蓮藕也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f45-r-c05">
+              <seg type="diplomatic-text">赤小豆也洲濱餅也</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f45-r-c06">
+              <seg type="diplomatic-text">如是十二年忽觀工匠喫午飯興欲食</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f45-r-c07">
+              <seg type="diplomatic-text">意以來復常食如平昔</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f45-r-c08">
+              <seg type="diplomatic-text">其他雖有少異而嫌粳飯不喫則無不皆同故聊記證候</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁第5欄「赤小豆也」上段雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">煮熟豆油／味醬調食</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁第5欄「赤小豆也」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">煮熟少鹽調食／若無代以豇豆</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁第5欄「洲濱餅也」後下段小字</label>
+              <seg type="diplomatic-text" rend="unknown">蒸果也黃／大豆麩粉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁第6欄頂雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">用稀餳搜和作水／際狀故名洲濱</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f45-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f45-l-c01">
+              <seg type="diplomatic-text">治驗以使知此亦癇證中之一候不妄治則時至得復妄</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f45-l-c02">
+              <seg type="diplomatic-text">攻妄補則鮮不殺者也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f45-l-c03">
+              <seg type="diplomatic-text">朱震亨治一女子在家因事不如意鬱結在脾半年不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f45-l-c04">
+              <seg type="diplomatic-text">食每日食棗數枚遺喜饅頭亦能少食惟深惡粥飯予</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f45-l-c05">
+              <seg type="diplomatic-text">脈其脾氣非積實不能散遂以溫膽湯去竹茹與服經</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f45-l-c06">
+              <seg type="diplomatic-text">三月服二百貼而愈惜乎不用藥則可早愈矣但恐斯</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f45-l-c07">
+              <seg type="diplomatic-text">藥不能愈斯疾也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f45-l-c07">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不食／四十四／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第5、6欄大字間有細字多組，按圖可回查。第6欄「興」候「與」。 左面：左面末一原欄空格，未加文字。第四欄「遺喜」首字候待。</ab>
+          </div>
+        </div>
+        <pb n="46" facs="#f46" />
+        <div n="46" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f46-l-c01">
+              <seg type="diplomatic-text">不大便</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f46-l-c02">
+              <seg type="diplomatic-text">平人之常度大便一日一行或二三行又或二日一行此</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f46-l-c03">
+              <seg type="diplomatic-text">其腸胃之容受傳導即各性之所稟乃爾若祕結者或三</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f46-l-c04">
+              <seg type="diplomatic-text">日五日一解或七日十日一解此亦非常而反成常者不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f46-l-c05">
+              <seg type="diplomatic-text">必為病也至二十日三十日一大便者則此由祕結之所</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f46-l-c06">
+              <seg type="diplomatic-text">以漸致而為病也其患甚可恐焉乃至半年一年大便不</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f46-l-c07">
+              <seg type="diplomatic-text">通終致不起者予既觀之若夫傷風寒時疫熱證不大便</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f46-l-c08">
+              <seg type="diplomatic-text">六七日至十餘日者固有少異不在此例一種有不大便</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f46-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不大便／四十五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：有格而正文為上一幅末頁的反透，不重複轉錄。 左面：「不大便」單獨一欄，原格下透出隔頁墨，無另寫正文。</ab>
+          </div>
+        </div>
+        <pb n="47" facs="#f47" />
+        <div n="47" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f47-r-c01">
+              <seg type="diplomatic-text">半年或一年而無何異患者大奇證也此亦多在婦人其</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f47-r-c02">
+              <seg type="diplomatic-text">證初時飲食如常及其久不更衣而後始親自疑怪稍減</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f47-r-c03">
+              <seg type="diplomatic-text">飲食雖然飲食如常固無短氣膨脹之意故食雖較少亦</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f47-r-c04">
+              <seg type="diplomatic-text">不甚尠起居安眠不異平時唯不大便耳他無所苦也此</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f47-r-c05">
+              <seg type="diplomatic-text">亦癇中之一候從前醫書未嘗有言及者何哉</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f47-r-c06">
+              <seg type="diplomatic-text">嘗記升家茂某妻年四十不大便一年許以其無他苦</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f47-r-c07">
+              <seg type="diplomatic-text">不加治療尋後復常又一婦人年未三十不大便半年</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f47-r-c08">
+              <seg type="diplomatic-text">大駭延醫或攻或補絕無寸効後請予診曰勿駭勿慮</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f47-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f47-l-c01">
+              <seg type="diplomatic-text">後必自愈若強妄攻補則藥毒反甚於病害矣一二月</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f47-l-c02">
+              <seg type="diplomatic-text">後果復平生</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f47-l-c02">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不大便／四十六／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右面記前後兩案，原行有句讀。第六欄首里姓或商號「升家茂」初讀。 左面：第二欄短句後六欄無版刻文字。</ab>
+          </div>
+        </div>
+        <pb n="48" facs="#f48" />
+        <div n="48" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f48-l-c01">
+              <seg type="diplomatic-text">不寐</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f48-l-c02">
+              <seg type="diplomatic-text">此證有癇氣人多患之蓋由癖上犯心氣不安故也發狂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f48-l-c03">
+              <seg type="diplomatic-text">之前必久不寐其後乃發狂癇大畧帶癖之人雖無他病</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f48-l-c04">
+              <seg type="diplomatic-text">只是夜開耿耿惺惺心澄意靜每多不寐想去思來遙遙</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f48-l-c05">
+              <seg type="diplomatic-text">如斯此皆癇之候也又有傷風寒時疫病中不寐此為心</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f48-l-c06">
+              <seg type="diplomatic-text">不安也熟睡為佳兆若眠過不醒反此非善候又有病後</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f48-l-c07">
+              <seg type="diplomatic-text">虚未復舊而夜不寐者此亦心不安也若夫年高人不寐</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f48-l-c08">
+              <seg type="diplomatic-text">者非病此卽老境常態非甚惡候雖長壽人亦有之則不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f48-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不寐／四十七／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：格線內多為前幅末頁反透，未另錄。 左面：第七欄前端有紙傷及重墨，依可辨字形暫作「虚未復舊」。右兩面欄頭題名重見。</ab>
+          </div>
+        </div>
+        <pb n="49" facs="#f49" />
+        <div n="49" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f49-r-c01">
+              <seg type="diplomatic-text">可必定為疾也後世醫書專主痰因不足取也</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f49-r-c02">
+              <seg type="diplomatic-text">證治要訣云痰在膽經神不守舍令不寐又云膽涎沃</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f49-r-c03">
+              <seg type="diplomatic-text">心以致心氣不足等是也古今醫鑑萬病回春並剽此</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f49-r-c04">
+              <seg type="diplomatic-text">論其餘皆然</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f49-r-c05">
+              <seg type="diplomatic-text">戴思恭曰大抵驚悸健忘怔忡失志不寐心風皆是膽</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f49-r-c06">
+              <seg type="diplomatic-text">涎沃心以致心氣不足此言稍近焉而謂膽涎</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f49-r-c07">
+              <seg type="diplomatic-text">沃心心氣不足者不免醫家之固陋也蓋此六項俱是</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f49-r-c08">
+              <seg type="diplomatic-text">癇證之枝葉而失志心風直是狂癇之別名怔忡卽悸</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f49-r-c08">
+              <label>右頁第6欄「不足」附近雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">見證治／要訣</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f49-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f49-l-c01">
+              <seg type="diplomatic-text">之俗名不寐亦狂之前兆也但健忘乃痱中之一證耳</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f49-l-c02">
+              <seg type="diplomatic-text">痱癇元相依故間亦有癇之健忘而終不能遁痱狀也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f49-l-c02">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／不寐／四十八／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：文中引《證治要訣》《古今醫鑑》《萬病回春》，引文以印面為準。 左面：兩欄後都是原格空白。第一、二欄「痱」與「癇」勿合併。</ab>
+          </div>
+        </div>
+        <pb n="50" facs="#f50" />
+        <div n="50" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f50-l-c01">
+              <seg type="diplomatic-text">悸</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f50-l-c02">
+              <seg type="diplomatic-text">悸者心動也後世醫家謂之怔忡尚係俗義蓋以心中躁</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f50-l-c03">
+              <seg type="diplomatic-text">動慌亂不安惕惕焉如人將來捕促驚然而心中跳躍如</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f50-l-c04">
+              <seg type="diplomatic-text">有欲厥之狀謂之怔忡元是後世俗間之稱呼竟非正義</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f50-l-c05">
+              <seg type="diplomatic-text">故諸字書不詳其說古謂之悸此正義也</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f50-l-c06">
+              <seg type="diplomatic-text">古人或併稱驚悸然而驚者其形之見乎外也悸者其意</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f50-l-c07">
+              <seg type="diplomatic-text">之在乎內也固是表裡之證而非同事而悸者今日癇人</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f50-l-c08">
+              <seg type="diplomatic-text">之所必多有也此亦癇中之一候耳後世或曰憕忡或曰</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f50-l-c08">
+              <label>左頁第5欄末雙行引注</label>
+              <seg type="diplomatic-text" rend="unknown">素問氣交變大／論云煩心蹺悸</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f50-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／悸／四十九／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：只有前葉反透與直欄格，未重錄。 左面：第八欄末接下幅，欄中「憕」字形候讀。第五欄引注末「蹺」形和讀法皆待核。</ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>憕</quote>
+              <note type="editorial">第八欄末接下幅，欄中「憕」字形候讀。第五欄引注末「蹺」形和讀法皆待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="51" facs="#f51" />
+        <div n="51" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f51-r-c01">
+              <seg type="diplomatic-text">心忡或曰心忪或曰忪悸皆世俗之所稱不可用也</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f51-r-c02">
+              <seg type="diplomatic-text">證治要訣云憕忡久思所愛觸事不意虚耗真血心血</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f51-r-c03">
+              <seg type="diplomatic-text">不足遂成憕忡俗謂心忡脈亂是也又云憕忡卽忪悸</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f51-r-c04">
+              <seg type="diplomatic-text">也忪悸與驚悸若相類而實不同驚悸者因事有所驚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f51-r-c05">
+              <seg type="diplomatic-text">而悸忪悸者本無所驚常心忪而自悸焉得無辨此說</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f51-r-c06">
+              <seg type="diplomatic-text">非也此以驚悸為一云爾由不知驚卽驚駭外動悸卽</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f51-r-c07">
+              <seg type="diplomatic-text">心跳內動也如王肯堂亦同</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f51-r-c08">
+              <seg type="diplomatic-text">證治準繩云悸卽怔忡今歷觀病狀則二證少有分別</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f51-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f51-l-c01">
+              <seg type="diplomatic-text">悸則心中微動如恐如驚怔忡則心胸振築莫知其來</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f51-l-c02">
+              <seg type="diplomatic-text">忽爾寧寂寞莫知其去甚則頭目眩暈神氣若浮蓋悸</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f51-l-c03">
+              <seg type="diplomatic-text">之重者也如其所謂怔忡者卽悸之事何分別之有</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f51-l-c04">
+              <seg type="diplomatic-text">成無己曰悸者心忪是也築築惕惕然動怔怔忪忪不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f51-l-c05">
+              <seg type="diplomatic-text">能自安者是也心悸之由不越二種一者氣虚也二者</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f51-l-c06">
+              <seg type="diplomatic-text">停飲也其氣虚者由陽氣內弱心下空虚正氣內動而</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f51-l-c07">
+              <seg type="diplomatic-text">為悸也其停飲者由水停心下心為火而惡水水旣內</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f51-l-c08">
+              <seg type="diplomatic-text">停心不自安則為悸也又有汗下之後正氣內虚邪氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-l-c08">
+              <label>左頁第5欄上方筆附小字</label>
+              <seg type="diplomatic-text" rend="unknown">心悸／出素問遺／篇本病論</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f51-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／悸／五十／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：數個忄旁字由各處原印分條讀，忪、怔、憕及忡不統一；第八欄書名用準字初讀。 左面：「心悸」旁註細字疑為後添，與黑口字分開。第2欄寧字、第4欄連用忪怔的原形待核。</ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>心悸</quote>
+              <note type="editorial">「心悸」旁註細字疑為後添，與黑口字分開。第2欄寧字、第4欄連用忪怔的原形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="52" facs="#f52" />
+        <div n="52" type="scan" subtype="medical-discussions-and-cases">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f52-r-c01">
+              <seg type="diplomatic-text">交擊而令悸者與氣虚而悸者則又甚焉又飲水過多</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f52-r-c02">
+              <seg type="diplomatic-text">水飲不為宣布留心下甚者則悸此以氣虚與停</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f52-r-c03">
+              <seg type="diplomatic-text">飲為悸之因然而停飲固當為悸猶癖之成根為悸也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f52-r-c04">
+              <seg type="diplomatic-text">但氣虚則由發汗吐下而內癖從以動爾</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f52-r-c05">
+              <seg type="diplomatic-text">素問云心澹澹大動骨腸胃脘不安</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f52-r-c06">
+              <seg type="diplomatic-text">傷寒論云脈浮數者法當汗出而愈若下之身重心悸</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f52-r-c07">
+              <seg type="diplomatic-text">者不可發汗當自汗出乃解又云發汗過多其人叉手</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f52-r-c08">
+              <seg type="diplomatic-text">冒心心下悸欲得按者桂枝甘艸湯主之又云太陽病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-r-c08">
+              <label>右頁第2欄「悸」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">出明／理論</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-r-c08">
+              <label>右頁第5欄「不安」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">至真要／大論</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f52-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f52-l-c01">
+              <seg type="diplomatic-text">發汗汗出不解其人仍發熱心下悸頭眩身瞤動振振</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f52-l-c02">
+              <seg type="diplomatic-text">欲擗地者真武湯主之又云傷寒中風五六日往來寒</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f52-l-c03">
+              <seg type="diplomatic-text">熱胸脇苦滿默默不欲飲食心煩喜嘔或心下悸小便</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f52-l-c04">
+              <seg type="diplomatic-text">不利與柴胡湯主之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f52-l-c05">
+              <seg type="diplomatic-text">金匱方論云寸口脈動而弱動卽為驚弱則為悸</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f52-l-c05">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／悸／五十一／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第五欄「骨腸」首字像骨亦像脅，按初讀。右面下端章頁數只見淡透墨。 左面：左頁第5欄引《金匱方論》後留空三欄。第一欄「瞤」、第二欄「擗」待核。</ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>瞤</quote>
+              <note type="editorial">左頁第5欄引《金匱方論》後留空三欄。第一欄「瞤」、第二欄「擗」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>擗</quote>
+              <note type="editorial">左頁第5欄引《金匱方論》後留空三欄。第一欄「瞤」、第二欄「擗」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="53" facs="#f53" />
+        <div n="53" type="scan" subtype="philological-appendix">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f53-l-c01">
+              <seg type="diplomatic-text">附字辨</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f53-l-c02">
+              <seg type="diplomatic-text">癇者閒也是病動則見種種證候靜則恬如平人乃有</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f53-l-c03">
+              <seg type="diplomatic-text">病閒也故從閒謂之癇猶因顛倒不省人事故從顛謂</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f53-l-c04">
+              <seg type="diplomatic-text">之癲也如是則癲癇俱從係字之義或曰癇者簡也卽</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f53-l-c05">
+              <seg type="diplomatic-text">論語所謂狂簡之義按孔安國曰簡大也又皇侃曰簡</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f53-l-c06">
+              <seg type="diplomatic-text">疎大無細行也又曰簡略之行康熙字典云慢忽之謂</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f53-l-c07">
+              <seg type="diplomatic-text">簡孟子是簡驩也疏簡略不禮也簡傲簡略疎大慢忽</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f53-l-c08">
+              <seg type="diplomatic-text">皆有癇氣味亦通驚者以如有所驚恐之狀故謂之驚</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f53-l-c08">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／附字辨／五十二／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：正文皆前葉透墨，檢視後未重錄。 左面：首題所見末字「辨」及版心「辨」依形。第三欄「閒」、第六、七欄「簡」相對，勿合。</ab>
+          </div>
+        </div>
+        <pb n="54" facs="#f54" />
+        <div n="54" type="scan" subtype="philological-appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f54-r-c01">
+              <seg type="diplomatic-text">非因驚而發也狂者變常亂失本心故謂之狂又作瘋</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f54-r-c02">
+              <seg type="diplomatic-text">正字通云內經本作狂又徐春甫曰狂則孔子所謂狂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f54-r-c03">
+              <seg type="diplomatic-text">狷者之狂也靈樞曰狂病始發少臥不飢自高賢也自</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f54-r-c04">
+              <seg type="diplomatic-text">辨智也自尊貴也故曰狂者進取志大而大言者也前</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f54-r-c05">
+              <seg type="diplomatic-text">謂狂言如有所見斯得之矣今非也孔子所謂狂</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f54-r-c06">
+              <seg type="diplomatic-text">者只言志大耳非言迷亂失本心也猶隔一層非醫人</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f54-r-c07">
+              <seg type="diplomatic-text">所知也</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f54-r-c08">
+              <seg type="diplomatic-text">悸說文心動也正字通一作痵怔康熙字典云揚子方</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f54-r-c08">
+              <label>右頁第5欄「矣」旁雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">見古／醫統</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f54-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f54-l-c01">
+              <seg type="diplomatic-text">言征伀遑遽也或從心玉篇怔忪懼貌忡康熙字典云</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f54-l-c02">
+              <seg type="diplomatic-text">又作憧憕康熙字典云音振失志貌音瞪心靜又懵憕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f54-l-c03">
+              <seg type="diplomatic-text">心不爽也忪正字通云音鍾心動康熙字典云心動不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f54-l-c04">
+              <seg type="diplomatic-text">定貌又遑遽也驚也此皆非本義今擇其赤說頗近俗</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f54-l-c05">
+              <seg type="diplomatic-text">義而舉之耳其實用一悸字而足矣怔元怔營字忡元</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f54-l-c06">
+              <seg type="diplomatic-text">憂也卽忡忡字憕心平字只忪畧近故怔忡憕忡等字</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f54-l-c07">
+              <seg type="diplomatic-text">不可取用也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f54-l-c07">
+              <label>左頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／附字辨／五十三／一本堂藏書</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第八欄痵、怔是兩個字目的接續。第4欄「辨智」原字候辨。 左面：末一欄空。第二欄起兩字及末兩個忄旁字候讀；第四欄「赤」筆形似亦，待核。收尾以最後所見之「不可取用也」為準。</ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>赤</quote>
+              <note type="editorial">末一欄空。第二欄起兩字及末兩個忄旁字候讀；第四欄「赤」筆形似亦，待核。收尾以最後所見之「不可取用也」為準。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>不可取用也</quote>
+              <note type="editorial">末一欄空。第二欄起兩字及末兩個忄旁字候讀；第四欄「赤」筆形似亦，待核。收尾以最後所見之「不可取用也」為準。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="55" facs="#f55" />
+        <div n="55" type="scan" subtype="binding-and-library-marks">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">行餘醫言／卷之五／一本堂藏書</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal">
+              <label>右頁欄上大型朱印</label>
+              <seg type="diplomatic-text" rend="red">□□</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：對照前幅左頁可見正文為反透，未另錄。朱印有當面線色，與前封裡印形相近。版心五十三附近多重葉緣和透墨。 左面：後襯灰面，無本面文字。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>右頁欄上大型朱印</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="56" facs="#f56" />
+        <div n="56" type="scan" subtype="binding-and-library-marks">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：原冊後封黑面，右頁繫線及磨耗可見，無題。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
