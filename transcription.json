@@ -17,11 +17,11 @@
     "manifest_url": "https://www.digital.archives.go.jp/api/iiif/4250410/manifest.json",
     "manifest_sha256": "66272169c1cedf35691db06d3d442dc9e6afed33880f5d3108862fa96360dc42",
     "record_id": "NAJ4250410",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "一本堂行餘醫言卷之五（江戶刊本，日本國立公文書館 195-0193-0005） / Ippondō kōyo igen, volume 5 [Discussions of historical medical categories and case accounts]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -111,7 +111,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "volume-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -151,7 +151,7 @@
               "type": "copy-annotation",
               "location": "左頁第3欄「癇」旁雙行音注",
               "text": "何閒切／音閒",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "何閒切",
@@ -162,7 +162,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／癇／一／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -174,15 +174,15 @@
             {
               "type": "seal",
               "location": "左頁欄首大型朱印",
-              "text": "內閣文庫",
-              "column_anchor": 8,
+              "text": "大日本帝國圖書",
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "seal",
               "location": "左頁前欄署記朱印",
               "text": "明治十三年購求",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "red"
             }
           ]
@@ -195,6 +195,15 @@
           "context": "閒",
           "candidates": [],
           "note": "左頁為卷首，題下及欄首相疊的朱印獨立記。癇的場內假名、墨圈及返點按原圖定位，初錄未逐一標出。第三欄音注「閒」字原形待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "大日本帝國圖書",
+          "candidates": [
+            "大日本帝國圖書"
+          ],
+          "note": "篆印若有異讀，仍待印文專核。"
         }
       ],
       "observations": "右面：封內灰面，無本面正文。 左面：左頁為卷首，題下及欄首相疊的朱印獨立記。癇的場內假名、墨圈及返點按原圖定位，初錄未逐一標出。第三欄音注「閒」字原形待核。"
@@ -211,7 +220,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -246,7 +255,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -290,7 +299,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／癇／二／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -303,7 +312,7 @@
               "type": "copy-annotation",
               "location": "左頁欄外上方方框旁注",
               "text": "甚則囂言欲／死投井自溺／抱刃就害",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "甚則囂言欲",
@@ -351,7 +360,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -386,7 +395,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／二／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -430,7 +439,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／癇／三／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -479,7 +488,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -514,7 +523,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -531,7 +540,7 @@
               "text": "出血而發者亦同。夫癲癇之成也。全是腹裏之癥為之根"
             },
             {
-              "text": "基。其癥上衝犯心。心氣為之隘狹屈迫。鬱窒蔽塞。而後見"
+              "text": "基。其癥上衝犯心。心氣為之隘狹屈迫。鬱室敝塞。而後見"
             },
             {
               "text": "種種癇狀。證候多端。怪奇不一。然而決癇之為癇者。以其"
@@ -557,7 +566,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／四／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -584,7 +593,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -619,7 +628,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -662,7 +671,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -689,7 +698,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -724,7 +733,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -767,7 +776,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／六／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -794,7 +803,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -829,7 +838,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -872,7 +881,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／七／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -899,7 +908,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -934,7 +943,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -974,28 +983,28 @@
               "type": "printed-small-text",
               "location": "附註左3尾",
               "text": "奇病論",
-              "column_anchor": 7,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註左3尾",
               "text": "又陰陽類論",
-              "column_anchor": 7,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註左4尾及左5",
               "text": "又見著至教論宣明五氣篇四時刺逆從論脈要精微論方盛衰論玉機真藏論氣交變大論五常政大論等。",
-              "column_anchor": 7,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／八／一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1037,7 +1046,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1072,14 +1081,14 @@
               "type": "printed-small-text",
               "location": "附註右1",
               "text": "脈要精微論",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註右3",
               "text": "五藏生成篇又見靈樞邪氣藏府病形篇",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
@@ -1093,7 +1102,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1136,14 +1145,14 @@
               "type": "printed-small-text",
               "location": "附註左2",
               "text": "經脈篇二條一作癲一作顛又見素問脈解篇",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／九／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1170,7 +1179,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1212,7 +1221,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1255,7 +1264,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1282,7 +1291,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1317,7 +1326,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1357,21 +1366,21 @@
               "type": "printed-small-text",
               "location": "附註左1尾",
               "text": "癲狂篇",
-              "column_anchor": 7,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註左2–3",
               "text": "熱病篇。其他見九鍼十二原篇、小鍼解篇、刺節眞邪篇、本神篇，及素問長刺節論、生氣通天論、陰陽類論、示從容論、宣明五氣篇、腹中論、氣厥論等。",
-              "column_anchor": 7,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註左5",
               "text": "經脈篇",
-              "column_anchor": 7,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
@@ -1385,7 +1394,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十一／一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1412,7 +1421,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1447,7 +1456,7 @@
               "type": "printed-small-text",
               "location": "附註右4尾",
               "text": "病能論",
-              "column_anchor": 8,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
@@ -1461,7 +1470,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1504,21 +1513,26 @@
               "type": "printed-small-text",
               "location": "附註左2",
               "text": "至眞要大論又見氣交變大論",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "眉批左4附近",
-              "text": "按本草綱目作狂陽未□孰是",
-              "column_anchor": 8,
-              "color": "unknown"
+              "text": "按本艸綱目／作狂陽未知／孰是",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "按本艸綱目",
+                "作狂陽未知",
+                "孰是"
+              ]
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十二／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1553,7 +1567,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1588,14 +1602,14 @@
               "type": "printed-small-text",
               "location": "附註右1",
               "text": "白薇條又楝實條有煩狂字又名醫別錄白頸蚯蚓條云狂謬",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1638,7 +1652,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十三／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1665,7 +1679,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1700,21 +1714,21 @@
               "type": "printed-small-text",
               "location": "附註右3",
               "text": "秘方集驗作失心瘋",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註右5",
               "text": "失志字元出素問評熱病論云狂言者是失志失志者死又見八十一難",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1757,7 +1771,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十四／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1784,7 +1798,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1819,7 +1833,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1862,7 +1876,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1897,7 +1911,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1923,7 +1937,7 @@
               "type": "printed-small-text",
               "location": "附註右3–6",
               "text": "大奇論著至教論示從容論疏五過論氣厥論／至眞要大論診要經終論舉痛論評熱病論奇／病論脈解篇刺熱篇經脈別論痺論厥論刺瘧論刺禁／論等又靈樞經脈篇云病至則惡人與火聞木聲則惕／然而驚心欲動獨閉戶塞牖而處甚則欲上高而歌棄／衣而走賁響腹脹是爲骭厥又百病始生篇癲狂篇熱／病篇終／始篇",
-              "column_anchor": 5,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "大奇論著至教論示從容論疏五過論氣厥論",
@@ -1940,7 +1954,7 @@
               "type": "printed-small-text",
               "location": "附註右8",
               "text": "調經論又傷寒論云傷寒脈浮醫以火迫劫之亡／陽必驚狂起卧不安又神農本艸防葵條云驚邪",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "調經論又傷寒論云傷寒脈浮醫以火迫劫之亡",
@@ -1951,7 +1965,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -1991,7 +2005,7 @@
               "type": "printed-small-text",
               "location": "附註左3–4",
               "text": "血氣形志篇經脈別論又靈樞經脈篇云氣不足／則善恐心惕惕如人將捕之又素問藏氣法時論／云善恐如人將捕之又靈樞口問篇云大／驚卒恐○神農本艸桔梗條云驚恐悸氣",
-              "column_anchor": 7,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "血氣形志篇經脈別論又靈樞經脈篇云氣不足",
@@ -2004,21 +2018,21 @@
               "type": "printed-small-text",
               "location": "附註左6",
               "text": "至眞要大論",
-              "column_anchor": 7,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "附註左8",
               "text": "通評虛實論",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "行餘醫言／癇／十六／一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -2045,7 +2059,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2080,7 +2094,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　十六　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2118,7 +2132,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　十七　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2139,7 +2153,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2174,7 +2188,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　十七　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2212,7 +2226,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　十八　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2233,7 +2247,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2268,7 +2282,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　十八　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2306,7 +2320,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　十九　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2342,7 +2356,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2377,7 +2391,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　十九　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2415,7 +2429,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2436,7 +2450,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2471,7 +2485,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2509,7 +2523,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十一　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2538,7 +2552,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2573,7 +2587,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十一　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2611,7 +2625,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十二　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2632,7 +2646,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2667,7 +2681,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十二　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2705,7 +2719,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十三　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2726,7 +2740,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2761,7 +2775,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十三　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2799,7 +2813,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十四　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2820,7 +2834,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2855,7 +2869,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十四　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2893,7 +2907,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2914,7 +2928,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2949,7 +2963,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2987,7 +3001,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十六　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3008,7 +3022,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3043,7 +3057,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十六　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3081,7 +3095,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十七　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3152,7 +3166,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3187,7 +3201,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十七　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3225,7 +3239,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十八　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3246,7 +3260,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3281,7 +3295,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　二十八　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3319,7 +3333,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癇　二十九　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3340,7 +3354,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3375,7 +3389,7 @@
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3407,49 +3421,49 @@
               "type": "printed-small-text",
               "location": "左頁第二大欄「之說非也」下右小字",
               "text": "丹溪纂要云重陰重陽之分難經之言也河",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二大欄「之說非也」下左小字",
               "text": "間原病式本素問之論以明癲狂俱是熱病",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁中部雙行第一欄右",
               "text": "而重陰之說非也醫學正傳云難經陰陽之說恐非理",
-              "column_anchor": 6,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁中部雙行第一欄左",
               "text": "也賀岳醫經大旨亦同其他左袒劉朱者皆非秦說又",
-              "column_anchor": 6,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁中部雙行第二欄右",
               "text": "取秦說者如王肯堂證治準繩張介賓景岳全書費",
-              "column_anchor": 6,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁中部雙行第二欄左",
               "text": "辭紛紛以陰陽之說為是也竟不免醫家之腐譚哉",
-              "column_anchor": 6,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癇　三十　一本堂藏書",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3470,7 +3484,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3505,7 +3519,7 @@
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3543,7 +3557,7 @@
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癇　三十一　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3564,7 +3578,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3599,7 +3613,7 @@
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3637,7 +3651,7 @@
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癇　三十二　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3658,7 +3672,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3684,63 +3698,63 @@
               "type": "printed-small-text",
               "location": "右頁第一大欄末右小字",
               "text": "玉機微義云案千金",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第一大欄末左小字",
               "text": "方叙六畜癇曰馬曰",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄雙行右",
               "text": "牛曰羊曰猪曰犬曰雞並不以六畜分屬五臟今三因",
-              "column_anchor": 5,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄雙行左",
               "text": "所引五癇無犬癇一證錢氏叙五癇一證無馬癇一證",
-              "column_anchor": 5,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄雙行右",
               "text": "二書以五獸分配五臟各各不同俱不知所由然也三",
-              "column_anchor": 5,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄雙行左",
               "text": "因雖有馬無犬癇及五臟有胃無腎之說亦難據憑劉",
-              "column_anchor": 5,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄雙行右",
               "text": "純此說雖未快駁辨而頗知陳言",
-              "column_anchor": 5,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄雙行左",
               "text": "之滅裂稍足可謂為故書以出焉",
-              "column_anchor": 5,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3775,56 +3789,56 @@
               "type": "printed-small-text",
               "location": "左頁第一大欄「也」下右小字",
               "text": "赤水玄珠孫一奎曰按此以風癇別立一",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第一大欄「也」下左小字",
               "text": "門明其不與癲狂相類則是之矣而云癲",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄雙行右",
               "text": "狂合為一門今終集考之並",
-              "column_anchor": 7,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄雙行左",
               "text": "無癲狂門目豈未之補歟",
-              "column_anchor": 7,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁欄上後筆右",
               "text": "赤水玄珠",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁欄上後筆中",
               "text": "剽竊此說",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁欄上後筆左",
               "text": "造作者",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癇　三十三　一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3845,7 +3859,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3874,84 +3888,84 @@
               "type": "printed-small-text",
               "location": "右頁第一欄雙行右",
               "text": "為一門則以見古人能知雖外面為癲為狂其證如異",
-              "column_anchor": 6,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第一欄雙行左",
               "text": "而其根本則是同一病也肯堂不是之知何其昧惑乎",
-              "column_anchor": 6,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二大欄「驚癇」下小字",
               "text": "俗名羊癇",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三大欄「風癇」下小字",
               "text": "俗名犬癇",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三大欄「食癇」下小字",
               "text": "俗名牛癇",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四大欄「顛癇」下小字",
               "text": "俗名雞癇",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四大欄「尸癇」下小字",
               "text": "俗名猪癇",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四大欄末右小字",
               "text": "此欲強為",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四大欄末左小字",
               "text": "牽合配當",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄雙行右",
               "text": "五臟以傳會五癇之名目真○赤水玄珠別癲狂癇三",
-              "column_anchor": 6,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄雙行左",
               "text": "者流也或益足以廣聞也證甚非也故不舉文",
-              "column_anchor": 6,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3989,7 +4003,7 @@
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癇　三十四　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4018,7 +4032,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4053,7 +4067,7 @@
               "type": "running-title",
               "location": "右頁外側版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4091,7 +4105,7 @@
               "type": "running-title",
               "location": "左頁外側版心",
               "text": "行餘醫言　癡騃　三十五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4112,7 +4126,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4147,14 +4161,14 @@
               "type": "printed-small-text",
               "location": "右頁第七欄起首雙行小字",
               "text": "下略",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4180,7 +4194,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　癡騃　三十六　一本堂藏書",
-              "column_anchor": 4,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4201,7 +4215,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4249,7 +4263,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　體輭　三十七　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4278,7 +4292,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4313,7 +4327,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4351,7 +4365,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　體輭　三十八　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4372,7 +4386,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4407,21 +4421,21 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方框",
               "text": "薛",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方框",
               "text": "曾",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4459,7 +4473,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　體輭　三十九　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4480,7 +4494,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4506,7 +4520,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4544,7 +4558,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　不食　四十　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4565,7 +4579,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4600,7 +4614,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4638,7 +4652,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　不食　四十一　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4659,7 +4673,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4694,7 +4708,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言　卷之五　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4732,7 +4746,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言　不食　四十二　一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4753,13 +4767,13 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "知其幾十回許綿綿歷數年膿水自然盡而全痊痕跡凹"
+              "text": "知其幾十回許綿綿歷數年膿水自然盡而全痊痕跡凸"
             },
             {
               "text": "凹磊磈不可名狀嗚呼此不食之人有津液得何賴生而"
@@ -4788,7 +4802,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -4805,7 +4819,7 @@
               "text": "食其妻纔吐其實遂去粳粉作糯餅與之喫之如此或一"
             },
             {
-              "text": "日煮□喫三碗飲酒三盞耳病人固信予已聽以不治為"
+              "text": "日煮鳬喫三碗飲酒三盞耳病人固信予已聽以不治為"
             },
             {
               "text": "真活法之說確執不詢他醫凡八年而始復平常其間患"
@@ -4831,7 +4845,7 @@
               "type": "printed-small-text",
               "location": "左頁第6欄「村夫」後雙行小字",
               "text": "忘其／鄉名",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown",
               "lines": [
                 "忘其",
@@ -4842,7 +4856,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不食／四十三／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -4858,9 +4872,12 @@
         {
           "side": "left",
           "column": 2,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "context": "鳬",
+          "candidates": [
+            "鳬",
+            "鳧"
+          ],
+          "note": "原圖下部近几，視為字形候讀。"
         },
         {
           "side": "left",
@@ -4884,7 +4901,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4905,7 +4922,7 @@
               "text": "赤小豆也洲濱餅也"
             },
             {
-              "text": "如是十二年忽觀工匠喫午飯興欲食"
+              "text": "如是十一年忽觀工匠喫午飯興欲食"
             },
             {
               "text": "意以來復常食如平昔"
@@ -4919,7 +4936,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄「赤小豆也」上段雙行小字",
               "text": "煮熟豆油／味醬調食",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "煮熟豆油",
@@ -4930,7 +4947,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄「赤小豆也」後雙行小字",
               "text": "煮熟少鹽調食／若無代以豇豆",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "煮熟少鹽調食",
@@ -4941,7 +4958,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄「洲濱餅也」後下段小字",
               "text": "蒸果也黃／大豆麩粉",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "蒸果也黃",
@@ -4952,7 +4969,7 @@
               "type": "printed-small-text",
               "location": "右頁第6欄頂雙行小字",
               "text": "用稀餳搜和作水／際狀故名洲濱",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown",
               "lines": [
                 "用稀餳搜和作水",
@@ -4963,7 +4980,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5003,7 +5020,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不食／四十四／一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5030,7 +5047,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5083,7 +5100,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不大便／四十五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5110,7 +5127,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5145,7 +5162,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5170,7 +5187,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不大便／四十六／一本堂藏書",
-              "column_anchor": 2,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5197,7 +5214,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5250,7 +5267,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不寐／四十七／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5277,7 +5294,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5312,7 +5329,7 @@
               "type": "printed-small-text",
               "location": "右頁第6欄「不足」附近雙行小字",
               "text": "見證治／要訣",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown",
               "lines": [
                 "見證治",
@@ -5323,7 +5340,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5348,7 +5365,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／不寐／四十八／一本堂藏書",
-              "column_anchor": 2,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5375,7 +5392,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5428,7 +5445,7 @@
               "type": "printed-small-text",
               "location": "左頁第5欄末雙行引注",
               "text": "素問氣交變大／論云煩心蹺悸",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "素問氣交變大",
@@ -5439,7 +5456,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／悸／四十九／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5474,7 +5491,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5509,7 +5526,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5552,7 +5569,7 @@
               "type": "printed-small-text",
               "location": "左頁第5欄上方筆附小字",
               "text": "心悸／出素問遺／篇本病論",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "心悸",
@@ -5564,7 +5581,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／悸／五十／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5599,7 +5616,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "medical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5634,7 +5651,7 @@
               "type": "printed-small-text",
               "location": "右頁第2欄「悸」後雙行小字",
               "text": "出明／理論",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown",
               "lines": [
                 "出明",
@@ -5645,7 +5662,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄「不安」後雙行小字",
               "text": "至真要／大論",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "至真要",
@@ -5656,7 +5673,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5690,7 +5707,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／悸／五十一／一本堂藏書",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5732,7 +5749,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "philological-appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5765,7 +5782,7 @@
               "text": "病閒也故從閒謂之癇猶因顛倒不省人事故從顛謂"
             },
             {
-              "text": "之癲也如是則癲癇俱從係字之義或曰癇者簡也卽"
+              "text": "之癲也如是則癲癇俱從孫字之義或曰癇者簡也卽"
             },
             {
               "text": "論語所謂狂簡之義按孔安國曰簡大也又皇侃曰簡"
@@ -5785,7 +5802,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／附字辨／五十二／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5812,7 +5829,7 @@
       "native_width": 6400,
       "native_height": 4500,
       "content_role": "philological-appendix",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5847,7 +5864,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄「矣」旁雙行小字",
               "text": "見古／醫統",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "見古",
@@ -5858,7 +5875,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "行餘醫言／卷之五／一本堂藏書",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5898,7 +5915,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "行餘醫言／附字辨／五十三／一本堂藏書",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "行餘醫言",
@@ -5961,7 +5978,7 @@
             {
               "type": "seal",
               "location": "右頁欄上大型朱印",
-              "text": "□□",
+              "text": "大日本帝國圖書",
               "column_anchor": null,
               "color": "red"
             }
@@ -5980,6 +5997,15 @@
           "context": "右頁欄上大型朱印",
           "candidates": [],
           "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "大日本帝國圖書",
+          "candidates": [
+            "大日本帝國圖書"
+          ],
+          "note": "篆印若有異讀，仍待印文專核。"
         }
       ],
       "observations": "右面：對照前幅左頁可見正文為反透，未另錄。朱印有當面線色，與前封裡印形相近。版心五十三附近多重葉緣和透墨。 左面：後襯灰面，無本面文字。"

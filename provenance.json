@@ -4,10 +4,10 @@
   "source": "https://www.digital.archives.go.jp/item/4250410",
   "iiif_manifest": "https://www.digital.archives.go.jp/api/iiif/4250410/manifest.json",
   "source_rights_policy": "https://www.digital.archives.go.jp/secondary-use",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 56,
   "content_scan_count": 53,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

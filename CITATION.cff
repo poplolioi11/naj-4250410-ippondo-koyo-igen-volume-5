@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '一本堂行餘醫言卷之五（江戶刊本，日本國立公文書館 195-0193-0005） / Ippondō kōyo igen, volume 5 [Discussions
   of historical medical categories and case accounts]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

@@ -4,11 +4,11 @@
 
 Volume 5 of Kagawa Shūtoku’s Ippondō kōyo igen discusses the historical categories xian, jing, dian, and kuang, as well as sleeplessness and related observations. Literary Chinese discussions, individual case accounts, and a concluding study of word usage are preserved in the National Archives of Japan’s printed witness 195-0193-0005. The exact printing year of this copy is unrecorded.
 
-## V0.1.0
+## V0.2.0
 
-56 幅全部編目。第 2–54 幅共 100 面有字，錄正文、有實義的雙行小字、引書、版心和附字辨。卷首館籤標示部分黏貼處未能掀閱，音訓與返點仍可對照原圖。本版為 AI 輔助逐欄初錄，少數疑字依原圖定位。
+56 幅全部編目。第 2–54 幅共 100 面有字，錄正文、有實義的雙行小字、引書、版心和附字辨。卷首館籤標示部分黏貼處未能掀閱，音訓與返點仍可對照原圖。比對未見初稿的本機 OCR 候選後，回圖裁定採用 178 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 56 scans are indexed. Scans 2–54 contain 100 written faces, including substantive notes, citations, centerfold titles, and the final philological section. The photographer’s notice identifies adhered portions that could not be lifted. Some Japanese reading marks remain source-locatable. AI-assisted initial transcription with uncertain readings referenced to the source.
+All 56 scans are indexed. Scans 2–54 contain 100 written faces, including substantive notes, citations, centerfold titles, and the final philological section. The photographer’s notice identifies adhered portions that could not be lifted. Some Japanese reading marks remain source-locatable. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 178 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
